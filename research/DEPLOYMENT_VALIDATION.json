@@ -1,0 +1,22 @@
+{
+  "checkedOn": "2026-11-20",
+  "framework": "Next.js 16.3.4",
+  "deploymentTarget": "Vercel",
+  "deployedThisSession": false,
+  "checks": {
+    "cleanNpmCi": "passed",
+    "eslintZeroWarnings": "passed",
+    "productionBuild": "passed",
+    "publishedRecords": 323,
+    "states": 50,
+    "researchDataUnchanged": "passed",
+    "productionHomepageHttp": 200,
+    "productionResearchApiHttp": 200,
+    "browserSearchFilters": "passed",
+    "lawLinkReload": "passed",
+    "comparisonAndTimelineNavigation": "passed",
+    "mobileDocumentOverflow": "none at checked 389px width",
+    "browserConsoleErrors": 0
+  },
+  "deploymentNote": "A hosted deployment was not performed; older Vercel dashboard framework or output overrides may need clearing before redeployment."
+}

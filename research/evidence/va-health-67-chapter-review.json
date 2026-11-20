@@ -1,0 +1,616 @@
+{
+  "reviewed": "2026-11-16",
+  "record": "va-health-records",
+  "scope": "All 67 chapter references in the current official section history; original acts retrieved and special commencement/sunset clauses examined.",
+  "generalRuleSource": "https://law.lis.virginia.gov/vacode/title1/chapter2.1/section1-214/",
+  "chapterReviewCount": 67,
+  "chapters": [
+    {
+      "year": 1997,
+      "chapter": 682,
+      "approved": "1997-03-21",
+      "effective": "1997-07-01",
+      "effectiveDateBasis": "Legal inference: full act reviewed; no special commencement or emergency clause. Regular-session July 1 default under Virginia Constitution art. IV \u00a713 / Code \u00a71-214.",
+      "source": "https://legacylis.virginia.gov/cgi-bin/legp604.exe?971+ful+CHAP0682",
+      "notes": []
+    },
+    {
+      "year": 1998,
+      "chapter": 470,
+      "approved": "1998-04-14",
+      "effective": "1998-04-14",
+      "effectiveDateBasis": "Express emergency clause: act in force from passage.",
+      "source": "https://legacylis.virginia.gov/cgi-bin/legp604.exe?981+ful+CHAP0470",
+      "notes": []
+    },
+    {
+      "year": 1999,
+      "chapter": 812,
+      "approved": "1999-03-29",
+      "effective": "1999-07-01",
+      "effectiveDateBasis": "Legal inference: full act reviewed; no special commencement or emergency clause. Regular-session July 1 default under Virginia Constitution art. IV \u00a713 / Code \u00a71-214.",
+      "source": "https://legacylis.virginia.gov/cgi-bin/legp604.exe?991+ful+CHAP0812",
+      "notes": []
+    },
+    {
+      "year": 1999,
+      "chapter": 956,
+      "approved": "1999-04-07",
+      "effective": "1999-07-01",
+      "effectiveDateBasis": "Legal inference: full act reviewed; no special commencement or emergency clause. Regular-session July 1 default under Virginia Constitution art. IV \u00a713 / Code \u00a71-214.",
+      "source": "https://legacylis.virginia.gov/cgi-bin/legp604.exe?991+ful+CHAP0956",
+      "notes": []
+    },
+    {
+      "year": 1999,
+      "chapter": 1010,
+      "approved": "1999-04-07",
+      "effective": "1999-07-01",
+      "effectiveDateBasis": "Legal inference: full act reviewed; no special commencement or emergency clause. Regular-session July 1 default under Virginia Constitution art. IV \u00a713 / Code \u00a71-214.",
+      "source": "https://legacylis.virginia.gov/cgi-bin/legp604.exe?991+ful+CHAP1010",
+      "notes": []
+    },
+    {
+      "year": 2000,
+      "chapter": 810,
+      "approved": "2000-04-09",
+      "effective": "2000-07-01",
+      "effectiveDateBasis": "Legal inference: full act reviewed; no special commencement or emergency clause. Regular-session July 1 default under Virginia Constitution art. IV \u00a713 / Code \u00a71-214.",
+      "source": "https://legacylis.virginia.gov/cgi-bin/legp604.exe?001+ful+CHAP0810",
+      "notes": []
+    },
+    {
+      "year": 2000,
+      "chapter": 813,
+      "approved": "2000-04-09",
+      "effective": "2000-07-01",
+      "effectiveDateBasis": "Legal inference: full act reviewed; no special commencement or emergency clause. Regular-session July 1 default under Virginia Constitution art. IV \u00a713 / Code \u00a71-214.",
+      "source": "https://legacylis.virginia.gov/cgi-bin/legp604.exe?001+ful+CHAP0813",
+      "notes": [
+        "Original sunset July 1, 2001 unless reenacted; chapter preserved subpoenas issued before sunset. Followed by 2001 chapter 671."
+      ]
+    },
+    {
+      "year": 2000,
+      "chapter": 923,
+      "approved": "2000-04-09",
+      "effective": "2000-07-01",
+      "effectiveDateBasis": "Legal inference: full act reviewed; no special commencement or emergency clause. Regular-session July 1 default under Virginia Constitution art. IV \u00a713 / Code \u00a71-214.",
+      "source": "https://legacylis.virginia.gov/cgi-bin/legp604.exe?001+ful+CHAP0923",
+      "notes": []
+    },
+    {
+      "year": 2000,
+      "chapter": 927,
+      "approved": "2000-04-09",
+      "effective": "2000-07-01",
+      "effectiveDateBasis": "Legal inference: full act reviewed; no special commencement or emergency clause. Regular-session July 1 default under Virginia Constitution art. IV \u00a713 / Code \u00a71-214.",
+      "source": "https://legacylis.virginia.gov/cgi-bin/legp604.exe?001+ful+CHAP0927",
+      "notes": []
+    },
+    {
+      "year": 2001,
+      "chapter": 671,
+      "approved": "2001-03-25",
+      "effective": "2001-07-01",
+      "effectiveDateBasis": "Legal inference: full act reviewed; no special commencement or emergency clause. Regular-session July 1 default under Virginia Constitution art. IV \u00a713 / Code \u00a71-214.",
+      "source": "https://legacylis.virginia.gov/cgi-bin/legp604.exe?011+ful+CHAP0671",
+      "notes": [
+        "Sunset July 1, 2003 printed in second enactment; subsequent 2003 chapter 907 adopted emergency provisions before that date."
+      ]
+    },
+    {
+      "year": 2002,
+      "chapter": 568,
+      "approved": "2002-04-06",
+      "effective": "2002-07-01",
+      "effectiveDateBasis": "Legal inference: full act reviewed; no special commencement or emergency clause. Regular-session July 1 default under Virginia Constitution art. IV \u00a713 / Code \u00a71-214.",
+      "source": "https://legacylis.virginia.gov/cgi-bin/legp604.exe?021+ful+CHAP0568",
+      "notes": []
+    },
+    {
+      "year": 2002,
+      "chapter": 658,
+      "approved": "2002-04-06",
+      "effective": "2002-07-01",
+      "effectiveDateBasis": "Legal inference: full act reviewed; no special commencement or emergency clause. Regular-session July 1 default under Virginia Constitution art. IV \u00a713 / Code \u00a71-214.",
+      "source": "https://legacylis.virginia.gov/cgi-bin/legp604.exe?021+ful+CHAP0658",
+      "notes": []
+    },
+    {
+      "year": 2002,
+      "chapter": 835,
+      "approved": "2002-04-17",
+      "effective": "2002-07-01",
+      "effectiveDateBasis": "Legal inference: full act reviewed; no special commencement or emergency clause. Regular-session July 1 default under Virginia Constitution art. IV \u00a713 / Code \u00a71-214.",
+      "source": "https://legacylis.virginia.gov/cgi-bin/legp604.exe?021+ful+CHAP0835",
+      "notes": []
+    },
+    {
+      "year": 2002,
+      "chapter": 860,
+      "approved": "2002-04-17",
+      "effective": "2002-07-01",
+      "effectiveDateBasis": "Legal inference: full act reviewed; no special commencement or emergency clause. Regular-session July 1 default under Virginia Constitution art. IV \u00a713 / Code \u00a71-214.",
+      "source": "https://legacylis.virginia.gov/cgi-bin/legp604.exe?021+ful+CHAP0860",
+      "notes": []
+    },
+    {
+      "year": 2003,
+      "chapter": 471,
+      "approved": "2003-03-16",
+      "effective": "2003-07-01",
+      "effectiveDateBasis": "Legal inference: full act reviewed; no special commencement or emergency clause. Regular-session July 1 default under Virginia Constitution art. IV \u00a713 / Code \u00a71-214.",
+      "source": "https://legacylis.virginia.gov/cgi-bin/legp604.exe?031+ful+CHAP0471",
+      "notes": []
+    },
+    {
+      "year": 2003,
+      "chapter": 907,
+      "approved": "2003-03-22",
+      "effective": "2003-03-22",
+      "effectiveDateBasis": "Express emergency clause: act in force from passage.",
+      "source": "https://legacylis.virginia.gov/cgi-bin/legp604.exe?031+ful+CHAP0907",
+      "notes": []
+    },
+    {
+      "year": 2003,
+      "chapter": 983,
+      "approved": "2003-04-02",
+      "effective": "2003-07-01",
+      "effectiveDateBasis": "Legal inference: full act reviewed; no special commencement or emergency clause. Regular-session July 1 default under Virginia Constitution art. IV \u00a713 / Code \u00a71-214.",
+      "source": "https://legacylis.virginia.gov/cgi-bin/legp604.exe?031+ful+CHAP0983",
+      "notes": []
+    },
+    {
+      "year": 2004,
+      "chapter": 49,
+      "approved": "2004-03-04",
+      "effective": "2004-07-01",
+      "effectiveDateBasis": "Legal inference: full act reviewed; no special commencement or emergency clause. Regular-session July 1 default under Virginia Constitution art. IV \u00a713 / Code \u00a71-214.",
+      "source": "https://legacylis.virginia.gov/cgi-bin/legp604.exe?041+ful+CHAP0049",
+      "notes": []
+    },
+    {
+      "year": 2004,
+      "chapter": 64,
+      "approved": "2004-03-10",
+      "effective": "2004-07-01",
+      "effectiveDateBasis": "Legal inference: full act reviewed; no special commencement or emergency clause. Regular-session July 1 default under Virginia Constitution art. IV \u00a713 / Code \u00a71-214.",
+      "source": "https://legacylis.virginia.gov/cgi-bin/legp604.exe?041+ful+CHAP0064",
+      "notes": []
+    },
+    {
+      "year": 2004,
+      "chapter": 65,
+      "approved": "2004-03-11",
+      "effective": "2004-07-01",
+      "effectiveDateBasis": "Legal inference: full act reviewed; no special commencement or emergency clause. Regular-session July 1 default under Virginia Constitution art. IV \u00a713 / Code \u00a71-214.",
+      "source": "https://legacylis.virginia.gov/cgi-bin/legp604.exe?041+ful+CHAP0065",
+      "notes": []
+    },
+    {
+      "year": 2004,
+      "chapter": 66,
+      "approved": "2004-03-11",
+      "effective": "2004-07-01",
+      "effectiveDateBasis": "Legal inference: full act reviewed; no special commencement or emergency clause. Regular-session July 1 default under Virginia Constitution art. IV \u00a713 / Code \u00a71-214.",
+      "source": "https://legacylis.virginia.gov/cgi-bin/legp604.exe?041+ful+CHAP0066",
+      "notes": []
+    },
+    {
+      "year": 2004,
+      "chapter": 67,
+      "approved": "2004-03-12",
+      "effective": "2004-07-01",
+      "effectiveDateBasis": "Legal inference: full act reviewed; no special commencement or emergency clause. Regular-session July 1 default under Virginia Constitution art. IV \u00a713 / Code \u00a71-214.",
+      "source": "https://legacylis.virginia.gov/cgi-bin/legp604.exe?041+ful+CHAP0067",
+      "notes": []
+    },
+    {
+      "year": 2004,
+      "chapter": 163,
+      "approved": "2004-03-19",
+      "effective": "2004-07-01",
+      "effectiveDateBasis": "Legal inference: full act reviewed; no special commencement or emergency clause. Regular-session July 1 default under Virginia Constitution art. IV \u00a713 / Code \u00a71-214.",
+      "source": "https://legacylis.virginia.gov/cgi-bin/legp604.exe?041+ful+CHAP0163",
+      "notes": []
+    },
+    {
+      "year": 2004,
+      "chapter": 773,
+      "approved": "2004-04-12",
+      "effective": "2004-04-12",
+      "effectiveDateBasis": "Express emergency clause: act in force from passage.",
+      "source": "https://legacylis.virginia.gov/cgi-bin/legp604.exe?041+ful+CHAP0773",
+      "notes": []
+    },
+    {
+      "year": 2004,
+      "chapter": 1014,
+      "approved": "2004-04-21",
+      "effective": "2004-07-01",
+      "effectiveDateBasis": "Legal inference: full act reviewed; no special commencement or emergency clause. Regular-session July 1 default under Virginia Constitution art. IV \u00a713 / Code \u00a71-214.",
+      "source": "https://legacylis.virginia.gov/cgi-bin/legp604.exe?041+ful+CHAP1014",
+      "notes": []
+    },
+    {
+      "year": 2004,
+      "chapter": 1021,
+      "approved": "2004-04-21",
+      "effective": "2004-04-21",
+      "effectiveDateBasis": "Express emergency clause: act in force from passage.",
+      "source": "https://legacylis.virginia.gov/cgi-bin/legp604.exe?041+ful+CHAP1021",
+      "notes": []
+    },
+    {
+      "year": 2005,
+      "chapter": 39,
+      "approved": "2005-03-20",
+      "effective": "2005-07-01",
+      "effectiveDateBasis": "Legal inference: full act reviewed; no special commencement or emergency clause. Regular-session July 1 default under Virginia Constitution art. IV \u00a713 / Code \u00a71-214.",
+      "source": "https://legacylis.virginia.gov/cgi-bin/legp604.exe?051+ful+CHAP0039",
+      "notes": []
+    },
+    {
+      "year": 2005,
+      "chapter": 101,
+      "approved": "2005-03-20",
+      "effective": "2005-07-01",
+      "effectiveDateBasis": "Legal inference: full act reviewed; no special commencement or emergency clause. Regular-session July 1 default under Virginia Constitution art. IV \u00a713 / Code \u00a71-214.",
+      "source": "https://legacylis.virginia.gov/cgi-bin/legp604.exe?051+ful+CHAP0101",
+      "notes": []
+    },
+    {
+      "year": 2005,
+      "chapter": 642,
+      "approved": "2005-03-23",
+      "effective": "2005-07-01",
+      "effectiveDateBasis": "Legal inference: full act reviewed; no special commencement or emergency clause. Regular-session July 1 default under Virginia Constitution art. IV \u00a713 / Code \u00a71-214.",
+      "source": "https://legacylis.virginia.gov/cgi-bin/legp604.exe?051+ful+CHAP0642",
+      "notes": []
+    },
+    {
+      "year": 2005,
+      "chapter": 697,
+      "approved": "2005-03-23",
+      "effective": "2005-07-01",
+      "effectiveDateBasis": "Legal inference: full act reviewed; no special commencement or emergency clause. Regular-session July 1 default under Virginia Constitution art. IV \u00a713 / Code \u00a71-214.",
+      "source": "https://legacylis.virginia.gov/cgi-bin/legp604.exe?051+ful+CHAP0697",
+      "notes": []
+    },
+    {
+      "year": 2006,
+      "chapter": 433,
+      "approved": "2006-03-31",
+      "effective": "2006-07-01",
+      "effectiveDateBasis": "Legal inference: full act reviewed; no special commencement or emergency clause. Regular-session July 1 default under Virginia Constitution art. IV \u00a713 / Code \u00a71-214.",
+      "source": "https://legacylis.virginia.gov/cgi-bin/legp604.exe?061+ful+CHAP0433",
+      "notes": []
+    },
+    {
+      "year": 2007,
+      "chapter": 497,
+      "approved": "2007-03-19",
+      "effective": "2007-07-01",
+      "effectiveDateBasis": "Legal inference: full act reviewed; no special commencement or emergency clause. Regular-session July 1 default under Virginia Constitution art. IV \u00a713 / Code \u00a71-214.",
+      "source": "https://legacylis.virginia.gov/cgi-bin/legp604.exe?071+ful+CHAP0497+pdf",
+      "notes": []
+    },
+    {
+      "year": 2008,
+      "chapter": 315,
+      "approved": "2008-03-04",
+      "effective": "2008-07-01",
+      "effectiveDateBasis": "Legal inference: full act reviewed; no special commencement or emergency clause. Regular-session July 1 default under Virginia Constitution art. IV \u00a713 / Code \u00a71-214.",
+      "source": "https://legacylis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0315+pdf",
+      "notes": []
+    },
+    {
+      "year": 2008,
+      "chapter": 782,
+      "approved": "2008-04-02",
+      "effective": "2008-07-01",
+      "effectiveDateBasis": "Legal inference: full act reviewed; no special commencement or emergency clause. Regular-session July 1 default under Virginia Constitution art. IV \u00a713 / Code \u00a71-214.",
+      "source": "https://legacylis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0782+pdf",
+      "notes": []
+    },
+    {
+      "year": 2008,
+      "chapter": 850,
+      "approved": "2008-04-23",
+      "effective": "2008-07-01",
+      "effectiveDateBasis": "Legal inference: full act reviewed; no special commencement or emergency clause. Regular-session July 1 default under Virginia Constitution art. IV \u00a713 / Code \u00a71-214.",
+      "source": "https://legacylis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0850+pdf",
+      "notes": []
+    },
+    {
+      "year": 2008,
+      "chapter": 870,
+      "approved": "2008-04-23",
+      "effective": "2008-07-01",
+      "effectiveDateBasis": "Legal inference: full act reviewed; no special commencement or emergency clause. Regular-session July 1 default under Virginia Constitution art. IV \u00a713 / Code \u00a71-214.",
+      "source": "https://legacylis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0870+pdf",
+      "notes": []
+    },
+    {
+      "year": 2009,
+      "chapter": 606,
+      "approved": "2009-03-27",
+      "effective": "2009-07-01",
+      "effectiveDateBasis": "Legal inference: full act reviewed; no special commencement or emergency clause. Regular-session July 1 default under Virginia Constitution art. IV \u00a713 / Code \u00a71-214.",
+      "source": "https://legacylis.virginia.gov/cgi-bin/legp604.exe?091+ful+CHAP0606+pdf",
+      "notes": []
+    },
+    {
+      "year": 2009,
+      "chapter": 651,
+      "approved": "2009-03-30",
+      "effective": "2009-07-01",
+      "effectiveDateBasis": "Legal inference: full act reviewed; no special commencement or emergency clause. Regular-session July 1 default under Virginia Constitution art. IV \u00a713 / Code \u00a71-214.",
+      "source": "https://legacylis.virginia.gov/cgi-bin/legp604.exe?091+ful+CHAP0651+pdf",
+      "notes": []
+    },
+    {
+      "year": 2009,
+      "chapter": 813,
+      "approved": "2009-04-08",
+      "effective": "2009-07-01",
+      "effectiveDateBasis": "Legal inference: full act reviewed; no special commencement or emergency clause. Regular-session July 1 default under Virginia Constitution art. IV \u00a713 / Code \u00a71-214.",
+      "source": "https://legacylis.virginia.gov/cgi-bin/legp604.exe?091+ful+CHAP0813+pdf",
+      "notes": []
+    },
+    {
+      "year": 2009,
+      "chapter": 840,
+      "approved": "2009-04-08",
+      "effective": "2009-07-01",
+      "effectiveDateBasis": "Legal inference: full act reviewed; no special commencement or emergency clause. Regular-session July 1 default under Virginia Constitution art. IV \u00a713 / Code \u00a71-214.",
+      "source": "https://legacylis.virginia.gov/cgi-bin/legp604.exe?091+ful+CHAP0840+pdf",
+      "notes": []
+    },
+    {
+      "year": 2010,
+      "chapter": 185,
+      "approved": "2010-03-29",
+      "effective": "2010-07-01",
+      "effectiveDateBasis": "Legal inference: full act reviewed; no special commencement or emergency clause. Regular-session July 1 default under Virginia Constitution art. IV \u00a713 / Code \u00a71-214.",
+      "source": "https://legacylis.virginia.gov/cgi-bin/legp604.exe?101+ful+CHAP0185+pdf",
+      "notes": []
+    },
+    {
+      "year": 2010,
+      "chapter": 340,
+      "approved": "2010-04-10",
+      "effective": "2010-07-01",
+      "effectiveDateBasis": "Legal inference: full act reviewed; no special commencement or emergency clause. Regular-session July 1 default under Virginia Constitution art. IV \u00a713 / Code \u00a71-214.",
+      "source": "https://legacylis.virginia.gov/cgi-bin/legp604.exe?101+ful+CHAP0340+pdf",
+      "notes": []
+    },
+    {
+      "year": 2010,
+      "chapter": 406,
+      "approved": "2010-04-11",
+      "effective": "2010-07-01",
+      "effectiveDateBasis": "Legal inference: full act reviewed; no special commencement or emergency clause. Regular-session July 1 default under Virginia Constitution art. IV \u00a713 / Code \u00a71-214.",
+      "source": "https://legacylis.virginia.gov/cgi-bin/legp604.exe?101+ful+CHAP0406+pdf",
+      "notes": []
+    },
+    {
+      "year": 2010,
+      "chapter": 456,
+      "approved": "2010-04-11",
+      "effective": "2010-07-01",
+      "effectiveDateBasis": "Legal inference: full act reviewed; no special commencement or emergency clause. Regular-session July 1 default under Virginia Constitution art. IV \u00a713 / Code \u00a71-214.",
+      "source": "https://legacylis.virginia.gov/cgi-bin/legp604.exe?101+ful+CHAP0456+pdf",
+      "notes": []
+    },
+    {
+      "year": 2010,
+      "chapter": 524,
+      "approved": "2010-04-11",
+      "effective": "2010-07-01",
+      "effectiveDateBasis": "Legal inference: full act reviewed; no special commencement or emergency clause. Regular-session July 1 default under Virginia Constitution art. IV \u00a713 / Code \u00a71-214.",
+      "source": "https://legacylis.virginia.gov/cgi-bin/legp604.exe?101+ful+CHAP0524+pdf",
+      "notes": []
+    },
+    {
+      "year": 2010,
+      "chapter": 778,
+      "approved": "2010-04-21",
+      "effective": "2010-07-01",
+      "effectiveDateBasis": "Legal inference: full act reviewed; no special commencement or emergency clause. Regular-session July 1 default under Virginia Constitution art. IV \u00a713 / Code \u00a71-214.",
+      "source": "https://legacylis.virginia.gov/cgi-bin/legp604.exe?101+ful+CHAP0778+pdf",
+      "notes": []
+    },
+    {
+      "year": 2010,
+      "chapter": 825,
+      "approved": "2010-04-21",
+      "effective": "2010-07-01",
+      "effectiveDateBasis": "Legal inference: full act reviewed; no special commencement or emergency clause. Regular-session July 1 default under Virginia Constitution art. IV \u00a713 / Code \u00a71-214.",
+      "source": "https://legacylis.virginia.gov/cgi-bin/legp604.exe?101+ful+CHAP0825+pdf",
+      "notes": []
+    },
+    {
+      "year": 2011,
+      "chapter": 499,
+      "approved": "2011-03-24",
+      "effective": "2011-07-01",
+      "effectiveDateBasis": "Legal inference: full act reviewed; no special commencement or emergency clause. Regular-session July 1 default under Virginia Constitution art. IV \u00a713 / Code \u00a71-214.",
+      "source": "https://legacylis.virginia.gov/cgi-bin/legp604.exe?111+ful+CHAP0499+pdf",
+      "notes": []
+    },
+    {
+      "year": 2011,
+      "chapter": 668,
+      "approved": "2011-03-26",
+      "effective": "2011-07-01",
+      "effectiveDateBasis": "Legal inference: full act reviewed; no special commencement or emergency clause. Regular-session July 1 default under Virginia Constitution art. IV \u00a713 / Code \u00a71-214.",
+      "source": "https://legacylis.virginia.gov/cgi-bin/legp604.exe?111+ful+CHAP0668+pdf",
+      "notes": []
+    },
+    {
+      "year": 2011,
+      "chapter": 798,
+      "approved": "2011-04-06",
+      "effective": "2012-07-01",
+      "effectiveDateBasis": "Express seventh enactment: July 1, 2012 for act, except fifth enactment planning duty effective July 1, 2011.",
+      "source": "https://legacylis.virginia.gov/cgi-bin/legp604.exe?111+ful+CHAP0798+pdf",
+      "notes": []
+    },
+    {
+      "year": 2011,
+      "chapter": 812,
+      "approved": "2011-04-06",
+      "effective": "2011-07-01",
+      "effectiveDateBasis": "Legal inference: full act reviewed; no special commencement or emergency clause. Regular-session July 1 default under Virginia Constitution art. IV \u00a713 / Code \u00a71-214.",
+      "source": "https://legacylis.virginia.gov/cgi-bin/legp604.exe?111+ful+CHAP0812+pdf",
+      "notes": []
+    },
+    {
+      "year": 2011,
+      "chapter": 844,
+      "approved": "2011-04-06",
+      "effective": "2011-07-01",
+      "effectiveDateBasis": "Legal inference: full act reviewed; no special commencement or emergency clause. Regular-session July 1 default under Virginia Constitution art. IV \u00a713 / Code \u00a71-214.",
+      "source": "https://legacylis.virginia.gov/cgi-bin/legp604.exe?111+ful+CHAP0844+pdf",
+      "notes": []
+    },
+    {
+      "year": 2011,
+      "chapter": 871,
+      "approved": "2011-04-06",
+      "effective": "2012-07-01",
+      "effectiveDateBasis": "Express seventh enactment: July 1, 2012 for act, except fifth enactment planning duty effective July 1, 2011.",
+      "source": "https://legacylis.virginia.gov/111/ful/CHAP0871.pdf",
+      "notes": []
+    },
+    {
+      "year": 2012,
+      "chapter": 386,
+      "approved": "2012-03-23",
+      "effective": "2012-07-01",
+      "effectiveDateBasis": "Legal inference: full act reviewed; no special commencement or emergency clause. Regular-session July 1 default under Virginia Constitution art. IV \u00a713 / Code \u00a71-214.",
+      "source": "https://legacylis.virginia.gov/cgi-bin/legp604.exe?121+ful+CHAP0386+pdf",
+      "notes": []
+    },
+    {
+      "year": 2012,
+      "chapter": 402,
+      "approved": "2012-03-30",
+      "effective": "2012-07-01",
+      "effectiveDateBasis": "Legal inference: full act reviewed; no special commencement or emergency clause. Regular-session July 1 default under Virginia Constitution art. IV \u00a713 / Code \u00a71-214.",
+      "source": "https://legacylis.virginia.gov/cgi-bin/legp604.exe?121+ful+CHAP0402+pdf",
+      "notes": []
+    },
+    {
+      "year": 2012,
+      "chapter": 479,
+      "approved": "2012-03-30",
+      "effective": "2012-07-01",
+      "effectiveDateBasis": "Legal inference: full act reviewed; no special commencement or emergency clause. Regular-session July 1 default under Virginia Constitution art. IV \u00a713 / Code \u00a71-214.",
+      "source": "https://legacylis.virginia.gov/cgi-bin/legp604.exe?121+ful+CHAP0479+pdf",
+      "notes": []
+    },
+    {
+      "year": 2016,
+      "chapter": 554,
+      "approved": "2016-03-29",
+      "effective": "2016-07-01",
+      "effectiveDateBasis": "Legal inference: full act reviewed; no special commencement or emergency clause. Regular-session July 1 default under Virginia Constitution art. IV \u00a713 / Code \u00a71-214.",
+      "source": "https://legacylis.virginia.gov/cgi-bin/legp604.exe?161+ful+CHAP0554+pdf",
+      "notes": []
+    },
+    {
+      "year": 2017,
+      "chapter": 457,
+      "approved": "2017-03-13",
+      "effective": "2017-07-01",
+      "effectiveDateBasis": "Legal inference: full act reviewed; no special commencement or emergency clause. Regular-session July 1 default under Virginia Constitution art. IV \u00a713 / Code \u00a71-214.",
+      "source": "https://legacylis.virginia.gov/cgi-bin/legp604.exe?171+ful+CHAP0457+pdf",
+      "notes": []
+    },
+    {
+      "year": 2017,
+      "chapter": 712,
+      "approved": "2017-03-24",
+      "effective": "2017-07-01",
+      "effectiveDateBasis": "Legal inference: full act reviewed; no special commencement or emergency clause. Regular-session July 1 default under Virginia Constitution art. IV \u00a713 / Code \u00a71-214.",
+      "source": "https://legacylis.virginia.gov/cgi-bin/legp604.exe?171+ful+CHAP0712+pdf",
+      "notes": []
+    },
+    {
+      "year": 2017,
+      "chapter": 720,
+      "approved": "2017-03-24",
+      "effective": "2017-07-01",
+      "effectiveDateBasis": "Legal inference: full act reviewed; no special commencement or emergency clause. Regular-session July 1 default under Virginia Constitution art. IV \u00a713 / Code \u00a71-214.",
+      "source": "https://legacylis.virginia.gov/cgi-bin/legp604.exe?171+ful+CHAP0720+pdf",
+      "notes": []
+    },
+    {
+      "year": 2018,
+      "chapter": 165,
+      "approved": "2018-03-05",
+      "effective": "2018-07-01",
+      "effectiveDateBasis": "Legal inference: full act reviewed; no special commencement or emergency clause. Regular-session July 1 default under Virginia Constitution art. IV \u00a713 / Code \u00a71-214.",
+      "source": "https://legacylis.virginia.gov/cgi-bin/legp604.exe?181+ful+CHAP0165+pdf",
+      "notes": []
+    },
+    {
+      "year": 2020,
+      "chapter": 945,
+      "approved": "2020-04-09",
+      "effective": "2020-07-01",
+      "effectiveDateBasis": "Legal inference: full act reviewed; no special commencement or emergency clause. Regular-session July 1 default under Virginia Constitution art. IV \u00a713 / Code \u00a71-214.",
+      "source": "https://legacylis.virginia.gov/cgi-bin/legp604.exe?201+ful+CHAP0945+pdf",
+      "notes": []
+    },
+    {
+      "year": 2022,
+      "chapter": 509,
+      "approved": "2022-04-11",
+      "effective": "2022-07-01",
+      "effectiveDateBasis": "Legal inference: full act reviewed; no special commencement or emergency clause. Regular-session July 1 default under Virginia Constitution art. IV \u00a713 / Code \u00a71-214.",
+      "source": "https://legacylis.virginia.gov/cgi-bin/legp604.exe?221+ful+CHAP0509+pdf",
+      "notes": []
+    },
+    {
+      "year": 2022,
+      "chapter": 534,
+      "approved": "2022-04-11",
+      "effective": "2022-07-01",
+      "effectiveDateBasis": "Legal inference: full act reviewed; no special commencement or emergency clause. Regular-session July 1 default under Virginia Constitution art. IV \u00a713 / Code \u00a71-214.",
+      "source": "https://legacylis.virginia.gov/221/ful/CHAP0534.pdf",
+      "notes": []
+    },
+    {
+      "year": 2022,
+      "chapter": 784,
+      "approved": "2022-04-27",
+      "effective": "2022-07-01",
+      "effectiveDateBasis": "Legal inference: full act reviewed; no special commencement or emergency clause. Regular-session July 1 default under Virginia Constitution art. IV \u00a713 / Code \u00a71-214.",
+      "source": "https://legacylis.virginia.gov/221/ful/CHAP0784.pdf",
+      "notes": []
+    },
+    {
+      "year": 2025,
+      "chapter": 182,
+      "approved": "2025-03-21",
+      "effective": "2025-07-01",
+      "effectiveDateBasis": "Legal inference: full act reviewed; no special commencement or emergency clause. Regular-session July 1 default under Virginia Constitution art. IV \u00a713 / Code \u00a71-214.",
+      "source": "https://lis.blob.core.windows.net/files/1071968.PDF",
+      "notes": []
+    },
+    {
+      "year": 2026,
+      "chapter": 248,
+      "approved": "2026-04-06",
+      "effective": "2026-07-01",
+      "effectiveDateBasis": "Legal inference: full act reviewed; no special commencement or emergency clause. Regular-session July 1 default under Virginia Constitution art. IV \u00a713 / Code \u00a71-214.",
+      "source": "https://lis.blob.core.windows.net/files/1217258.PDF",
+      "notes": []
+    }
+  ]
+}

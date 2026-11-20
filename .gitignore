@@ -1,0 +1,22 @@
+# Dependencies
+/node_modules/
+
+# Generated output
+/.next/
+/out/
+/coverage/
+*.tsbuildinfo
+next-env.d.ts
+
+# Local settings and secrets
+.vercel/
+.env*
+.dev.vars*
+*.pem
+
+# Logs and OS files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+.DS_Store

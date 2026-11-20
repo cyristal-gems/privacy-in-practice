@@ -1,0 +1,1779 @@
+[
+  {
+    "state": "AL",
+    "governor": {
+      "name": "Kay Ivey",
+      "url": "https://governor.alabama.gov/"
+    },
+    "checked": "2026-11-09",
+    "name": "Alabama",
+    "region": "South",
+    "division": "East South Central",
+    "location": "Alabama is in the southeastern United States. The U.S. Census Bureau groups it in the South region’s East South Central division.",
+    "geographySource": "https://www.census.gov/programs-surveys/economic-census/guidance-geographies/levels.html",
+    "senators": [
+      {
+        "role": "U.S. Senator",
+        "name": "Katie Boyd Britt",
+        "url": "https://www.britt.senate.gov/",
+        "source": "https://www.senate.gov/senators/"
+      },
+      {
+        "role": "U.S. Senator",
+        "name": "Tommy Tuberville",
+        "url": "https://www.tuberville.senate.gov",
+        "source": "https://www.senate.gov/senators/"
+      }
+    ],
+    "description": "Alabama lies in the southeastern United States, extending from the southern Appalachian foothills to the Gulf Coast. Montgomery is the capital; Birmingham, Huntsville and Mobile are other important urban centers. The state's landscapes include wooded uplands, river valleys, coastal plains and the Mobile Bay area. Little River Canyon illustrates the mountain scenery of the northeast, while Birmingham and the Selma-to-Montgomery corridor preserve central places in the civil rights movement. Alabama connects the inland South with the Gulf Coast.",
+    "contextSources": [
+      {
+        "label": "National Park Service: state places and landscapes",
+        "url": "https://www.nps.gov/state/al/index.htm"
+      }
+    ]
+  },
+  {
+    "state": "AK",
+    "governor": {
+      "name": "Mike Dunleavy",
+      "url": "https://gov.alaska.gov/"
+    },
+    "checked": "2026-11-09",
+    "name": "Alaska",
+    "region": "West",
+    "division": "Pacific",
+    "location": "Alaska is in the far northwest of North America, outside the contiguous United States. The U.S. Census Bureau groups it in the West region’s Pacific division.",
+    "geographySource": "https://www.census.gov/programs-surveys/economic-census/guidance-geographies/levels.html",
+    "senators": [
+      {
+        "role": "U.S. Senator",
+        "name": "Lisa Murkowski",
+        "url": "https://www.murkowski.senate.gov/",
+        "source": "https://www.senate.gov/senators/"
+      },
+      {
+        "role": "U.S. Senator",
+        "name": "Dan Sullivan",
+        "url": "https://www.sullivan.senate.gov",
+        "source": "https://www.senate.gov/senators/"
+      }
+    ],
+    "description": "Alaska occupies the far northwest of North America, separated from the contiguous United States by Canada. Juneau is the capital, while Anchorage and Fairbanks are major centers in different parts of the state. Its geography ranges from Southeast's coastal islands and rain forests to interior river valleys, mountain ranges, tundra and the Arctic coast. Glaciers, volcanic landscapes and extensive public lands shape its regional identity. Alaska Native communities and distinct coastal, interior and island regions make the state geographically and culturally varied.",
+    "contextSources": [
+      {
+        "label": "National Park Service: state places and landscapes",
+        "url": "https://www.nps.gov/state/ak/index.htm"
+      }
+    ]
+  },
+  {
+    "state": "AZ",
+    "governor": {
+      "name": "Katie Hobbs",
+      "url": "https://azgovernor.gov/"
+    },
+    "checked": "2026-11-09",
+    "name": "Arizona",
+    "region": "West",
+    "division": "Mountain",
+    "location": "Arizona is in the Southwest. The U.S. Census Bureau groups it in the West region’s Mountain division.",
+    "geographySource": "https://www.census.gov/programs-surveys/economic-census/guidance-geographies/levels.html",
+    "senators": [
+      {
+        "role": "U.S. Senator",
+        "name": "Ruben Gallego",
+        "url": "https://www.gallego.senate.gov/",
+        "source": "https://www.senate.gov/senators/"
+      },
+      {
+        "role": "U.S. Senator",
+        "name": "Mark Kelly",
+        "url": "https://www.kelly.senate.gov",
+        "source": "https://www.senate.gov/senators/"
+      }
+    ],
+    "description": "Arizona is in the southwestern United States, bordering Mexico and connecting desert lowlands with the Colorado Plateau. Phoenix is the capital; Tucson and Flagstaff are other prominent cities. The Sonoran Desert, upland forests, mountain ranges and canyon country create marked contrasts across the state. The Grand Canyon, Saguaro and Petrified Forest represent different parts of that landscape. Tribal homelands and living Indigenous communities are integral to Arizona, including the Navajo Nation's relationship with Canyon de Chelly in the northeast.",
+    "contextSources": [
+      {
+        "label": "National Park Service: state places and landscapes",
+        "url": "https://www.nps.gov/state/az/index.htm"
+      }
+    ]
+  },
+  {
+    "state": "AR",
+    "governor": {
+      "name": "Sarah Huckabee Sanders",
+      "url": "https://portal.arkansas.gov/"
+    },
+    "checked": "2026-11-09",
+    "name": "Arkansas",
+    "region": "South",
+    "division": "West South Central",
+    "location": "Arkansas is in the south-central United States. The U.S. Census Bureau groups it in the South region’s West South Central division.",
+    "geographySource": "https://www.census.gov/programs-surveys/economic-census/guidance-geographies/levels.html",
+    "senators": [
+      {
+        "role": "U.S. Senator",
+        "name": "John Boozman",
+        "url": "https://www.boozman.senate.gov/",
+        "source": "https://www.senate.gov/senators/"
+      },
+      {
+        "role": "U.S. Senator",
+        "name": "Tom Cotton",
+        "url": "https://www.cotton.senate.gov",
+        "source": "https://www.senate.gov/senators/"
+      }
+    ],
+    "description": "Arkansas lies in the south-central United States, where the Ozark and Ouachita uplands meet broad river valleys and the Mississippi Delta. Little Rock is the capital; Fort Smith and the cities of northwest Arkansas are other important centers. Forests, bluffs, springs and farmland give the state's regions different characters. Buffalo National River passes through Ozark scenery, while Hot Springs combines thermal waters with an urban setting. Historic sites at Little Rock, Fort Smith and Arkansas Post connect the landscape with national history.",
+    "contextSources": [
+      {
+        "label": "National Park Service: state places and landscapes",
+        "url": "https://www.nps.gov/state/ar/index.htm"
+      }
+    ]
+  },
+  {
+    "state": "CA",
+    "governor": {
+      "name": "Gavin Newsom",
+      "url": "https://www.gov.ca.gov/2026/11/06/governor-newsom-proclaims-native-american-heritage-month-2026/"
+    },
+    "checked": "2026-11-09",
+    "name": "California",
+    "region": "West",
+    "division": "Pacific",
+    "location": "California is on the Pacific coast of the western United States. The U.S. Census Bureau groups it in the West region’s Pacific division.",
+    "geographySource": "https://www.census.gov/programs-surveys/economic-census/guidance-geographies/levels.html",
+    "senators": [
+      {
+        "role": "U.S. Senator",
+        "name": "Alex Padilla",
+        "url": "https://www.padilla.senate.gov",
+        "source": "https://www.senate.gov/senators/"
+      },
+      {
+        "role": "U.S. Senator",
+        "name": "Adam B. Schiff",
+        "url": "https://www.schiff.senate.gov",
+        "source": "https://www.senate.gov/senators/"
+      }
+    ],
+    "description": "California stretches along the Pacific coast, with landscapes ranging from coastal communities and redwood forests to the Sierra Nevada, inland deserts, and the agricultural Central Valley. Sacramento is the state capital; Los Angeles, San Diego, and the San Francisco Bay Area are among its major urban centers. The Sacramento and San Joaquin rivers drain the Central Valley toward the Delta and San Francisco Bay. National parks including Yosemite, Sequoia, and Death Valley reflect the state's striking differences in terrain and climate.",
+    "contextSources": [
+      {
+        "label": "California State Capitol Museum",
+        "url": "https://capitolmuseum.ca.gov/about-the-capitol/"
+      },
+      {
+        "label": "U.S. Geological Survey: Central Valley",
+        "url": "https://www.usgs.gov/centers/california-water-science-center/central-valley-regional-overview"
+      },
+      {
+        "label": "National Park Service: California",
+        "url": "https://www.nps.gov/state/ca/index.htm"
+      }
+    ]
+  },
+  {
+    "state": "CO",
+    "governor": {
+      "name": "Jared Polis",
+      "url": "https://leg.colorado.gov/sites/default/files/images/final_2025_executive_committee_special_session_planning_memo-accessible.pdf"
+    },
+    "checked": "2026-11-09",
+    "name": "Colorado",
+    "region": "West",
+    "division": "Mountain",
+    "location": "Colorado is in the Rocky Mountain West. The U.S. Census Bureau groups it in the West region’s Mountain division.",
+    "geographySource": "https://www.census.gov/programs-surveys/economic-census/guidance-geographies/levels.html",
+    "senators": [
+      {
+        "role": "U.S. Senator",
+        "name": "Michael F. Bennet",
+        "url": "https://www.bennet.senate.gov",
+        "source": "https://www.senate.gov/senators/"
+      },
+      {
+        "role": "U.S. Senator",
+        "name": "John W. Hickenlooper",
+        "url": "https://www.hickenlooper.senate.gov",
+        "source": "https://www.senate.gov/senators/"
+      }
+    ],
+    "description": "Colorado is a western state where the Great Plains meet the Rocky Mountains and the plateaus of the Colorado River region. Denver is the capital, with Colorado Springs, Fort Collins and Pueblo among its other urban centers. The Front Range links mountain foothills with a corridor of cities, while western Colorado contains canyons and high plateaus. Rocky Mountain, Great Sand Dunes, Mesa Verde and Black Canyon of the Gunnison illustrate the state's varied landscapes, from alpine environments to archaeological and river-carved settings.",
+    "contextSources": [
+      {
+        "label": "National Park Service: state places and landscapes",
+        "url": "https://www.nps.gov/state/co/index.htm"
+      }
+    ]
+  },
+  {
+    "state": "CT",
+    "governor": {
+      "name": "Ned Lamont",
+      "url": "https://www.cga.ct.gov/2026/bul/SupDoc/leadership.htm"
+    },
+    "checked": "2026-11-09",
+    "name": "Connecticut",
+    "region": "Northeast",
+    "division": "New England",
+    "location": "Connecticut is in New England in the northeastern United States. The U.S. Census Bureau groups it in the Northeast region’s New England division.",
+    "geographySource": "https://www.census.gov/programs-surveys/economic-census/guidance-geographies/levels.html",
+    "senators": [
+      {
+        "role": "U.S. Senator",
+        "name": "Richard Blumenthal",
+        "url": "https://www.blumenthal.senate.gov",
+        "source": "https://www.senate.gov/senators/"
+      },
+      {
+        "role": "U.S. Senator",
+        "name": "Christopher Murphy",
+        "url": "https://www.murphy.senate.gov/",
+        "source": "https://www.senate.gov/senators/"
+      }
+    ],
+    "description": "Connecticut is in southern New England, with a coast on Long Island Sound and wooded hills and river valleys inland. Hartford is the capital; New Haven, Bridgeport and Stamford are other major cities. The Connecticut River, historic manufacturing communities and coastal settlements give the state several regional identities. The New England Trail crosses ridges, forests, farmland and village landscapes, while Coltsville in Hartford reflects industrial history. Connecticut also forms part of the wider Northeast corridor between the New York and Boston regions.",
+    "contextSources": [
+      {
+        "label": "National Park Service: state places and landscapes",
+        "url": "https://www.nps.gov/state/ct/index.htm"
+      }
+    ]
+  },
+  {
+    "state": "DE",
+    "governor": {
+      "name": "Matt Meyer",
+      "url": "https://governor.delaware.gov/governor-bio/"
+    },
+    "checked": "2026-11-09",
+    "name": "Delaware",
+    "region": "South",
+    "division": "South Atlantic",
+    "location": "Delaware is in the Mid-Atlantic. The U.S. Census Bureau groups it in the South region’s South Atlantic division.",
+    "geographySource": "https://www.census.gov/programs-surveys/economic-census/guidance-geographies/levels.html",
+    "senators": [
+      {
+        "role": "U.S. Senator",
+        "name": "Lisa Blunt Rochester",
+        "url": "https://www.bluntrochester.senate.gov/",
+        "source": "https://www.senate.gov/senators/"
+      },
+      {
+        "role": "U.S. Senator",
+        "name": "Christopher A. Coons",
+        "url": "https://www.coons.senate.gov/",
+        "source": "https://www.senate.gov/senators/"
+      }
+    ],
+    "description": "Delaware sits on the Atlantic side of the Delmarva Peninsula, between the Delaware River and Bay and neighboring Maryland and Pennsylvania. Dover is the capital, while Wilmington is an important northern urban center. Northern Delaware connects with the Delaware Valley; farther south, agricultural land, small towns, wetlands and beach communities shape the landscape. First State National Historical Park links places associated with early settlement and constitutional history. The state's coastal setting and river connections tie it to both Mid-Atlantic and Chesapeake regional stories.",
+    "contextSources": [
+      {
+        "label": "National Park Service: state places and landscapes",
+        "url": "https://www.nps.gov/state/de/index.htm"
+      }
+    ]
+  },
+  {
+    "state": "FL",
+    "governor": {
+      "name": "Ron DeSantis",
+      "url": "https://www.flgov.com/eog/"
+    },
+    "checked": "2026-11-09",
+    "name": "Florida",
+    "region": "South",
+    "division": "South Atlantic",
+    "location": "Florida is in the southeastern United States. The U.S. Census Bureau groups it in the South region’s South Atlantic division.",
+    "geographySource": "https://www.census.gov/programs-surveys/economic-census/guidance-geographies/levels.html",
+    "senators": [
+      {
+        "role": "U.S. Senator",
+        "name": "Ashley Moody",
+        "url": "https://www.moody.senate.gov",
+        "source": "https://www.senate.gov/senators/"
+      },
+      {
+        "role": "U.S. Senator",
+        "name": "Rick Scott",
+        "url": "https://www.rickscott.senate.gov/",
+        "source": "https://www.senate.gov/senators/"
+      }
+    ],
+    "description": "Florida occupies a southeastern peninsula between the Atlantic Ocean and the Gulf Coast, with a panhandle extending westward. Tallahassee is the capital; Jacksonville, Miami, Orlando and Tampa are major urban centers. Barrier islands, beaches, springs, wetlands and coastal waters distinguish its regions. Everglades and Big Cypress protect interconnected freshwater landscapes, while Biscayne preserves marine and island environments near Miami. St. Augustine and other historic sites reflect centuries of cultural contact. Northern Florida, the central peninsula and South Florida have distinct landscapes and settlement patterns.",
+    "contextSources": [
+      {
+        "label": "National Park Service: state places and landscapes",
+        "url": "https://www.nps.gov/state/fl/index.htm"
+      }
+    ]
+  },
+  {
+    "state": "GA",
+    "governor": {
+      "name": "Brian P. Kemp",
+      "url": "https://gov.georgia.gov/"
+    },
+    "checked": "2026-11-09",
+    "name": "Georgia",
+    "region": "South",
+    "division": "South Atlantic",
+    "location": "Georgia is in the southeastern United States. The U.S. Census Bureau groups it in the South region’s South Atlantic division.",
+    "geographySource": "https://www.census.gov/programs-surveys/economic-census/guidance-geographies/levels.html",
+    "senators": [
+      {
+        "role": "U.S. Senator",
+        "name": "Jon Ossoff",
+        "url": "https://www.ossoff.senate.gov",
+        "source": "https://www.senate.gov/senators/"
+      },
+      {
+        "role": "U.S. Senator",
+        "name": "Raphael G. Warnock",
+        "url": "https://www.warnock.senate.gov",
+        "source": "https://www.senate.gov/senators/"
+      }
+    ],
+    "description": "Georgia is in the southeastern United States, stretching from the southern Appalachians through the Piedmont to an Atlantic coastal plain. Atlanta is the capital; Savannah, Augusta, Columbus and Macon are other notable cities. Mountain forests, river corridors, farmland, marshes and barrier islands distinguish its regions. The Chattahoochee River offers a natural corridor near Atlanta, while Cumberland Island represents the coast. Historic places associated with Indigenous nations, the Civil War and the civil rights movement are woven through Georgia's urban and rural landscapes.",
+    "contextSources": [
+      {
+        "label": "National Park Service: state places and landscapes",
+        "url": "https://www.nps.gov/state/ga/index.htm"
+      }
+    ]
+  },
+  {
+    "state": "HI",
+    "governor": {
+      "name": "Josh Green",
+      "url": "https://governor.hawaii.gov/"
+    },
+    "checked": "2026-11-09",
+    "name": "Hawaii",
+    "region": "West",
+    "division": "Pacific",
+    "location": "Hawaii is in the central Pacific Ocean, outside the contiguous United States. The U.S. Census Bureau groups it in the West region’s Pacific division.",
+    "geographySource": "https://www.census.gov/programs-surveys/economic-census/guidance-geographies/levels.html",
+    "senators": [
+      {
+        "role": "U.S. Senator",
+        "name": "Mazie K. Hirono",
+        "url": "https://www.hirono.senate.gov/",
+        "source": "https://www.senate.gov/senators/"
+      },
+      {
+        "role": "U.S. Senator",
+        "name": "Brian Schatz",
+        "url": "https://www.schatz.senate.gov",
+        "source": "https://www.senate.gov/senators/"
+      }
+    ],
+    "description": "Hawaii is a Pacific island state separated from the North American mainland by ocean. Honolulu, on Oahu, is the capital; communities across Hawaii Island, Maui, Kauai, Molokai and Lanai contribute distinct island identities. Volcanic terrain, mountain slopes, rain forests and coastal environments create striking local contrasts. Hawaii Volcanoes and Haleakala preserve different volcanic landscapes, while coastal trails and historic places reflect Native Hawaiian relationships with land and sea. The state's geography is best understood island by island rather than as one continuous land area.",
+    "contextSources": [
+      {
+        "label": "National Park Service: state places and landscapes",
+        "url": "https://www.nps.gov/state/hi/index.htm"
+      }
+    ]
+  },
+  {
+    "state": "ID",
+    "governor": {
+      "name": "Brad Little",
+      "url": "https://gov.idaho.gov/"
+    },
+    "checked": "2026-11-09",
+    "name": "Idaho",
+    "region": "West",
+    "division": "Mountain",
+    "location": "Idaho is in the inland Northwest. The U.S. Census Bureau groups it in the West region’s Mountain division.",
+    "geographySource": "https://www.census.gov/programs-surveys/economic-census/guidance-geographies/levels.html",
+    "senators": [
+      {
+        "role": "U.S. Senator",
+        "name": "Mike Crapo",
+        "url": "https://www.crapo.senate.gov",
+        "source": "https://www.senate.gov/senators/"
+      },
+      {
+        "role": "U.S. Senator",
+        "name": "James E. Risch",
+        "url": "https://www.risch.senate.gov",
+        "source": "https://www.senate.gov/senators/"
+      }
+    ],
+    "description": "Idaho is in the inland Northwest, with mountain country extending south into the broad Snake River Plain. Boise is the capital; Idaho Falls, Twin Falls, Pocatello and Coeur d'Alene are other regional centers. Forested mountains, river canyons, agricultural valleys and volcanic terrain create varied landscapes. Craters of the Moon preserves lava flows and cinder cones, while City of Rocks is known for dramatic rock formations. Nez Perce sites and overland-trail routes connect the state's geography with Indigenous history and westward migration.",
+    "contextSources": [
+      {
+        "label": "National Park Service: state places and landscapes",
+        "url": "https://www.nps.gov/state/id/index.htm"
+      }
+    ]
+  },
+  {
+    "state": "IL",
+    "governor": {
+      "name": "JB Pritzker",
+      "url": "https://gov.illinois.gov/"
+    },
+    "checked": "2026-11-09",
+    "name": "Illinois",
+    "region": "Midwest",
+    "division": "East North Central",
+    "location": "Illinois is in the Great Lakes Midwest. The U.S. Census Bureau groups it in the Midwest region’s East North Central division.",
+    "geographySource": "https://www.census.gov/programs-surveys/economic-census/guidance-geographies/levels.html",
+    "senators": [
+      {
+        "role": "U.S. Senator",
+        "name": "Tammy Duckworth",
+        "url": "https://www.duckworth.senate.gov",
+        "source": "https://www.senate.gov/senators/"
+      },
+      {
+        "role": "U.S. Senator",
+        "name": "Richard J. Durbin",
+        "url": "https://www.durbin.senate.gov",
+        "source": "https://www.senate.gov/senators/"
+      }
+    ],
+    "description": "Illinois connects the Great Lakes region with the Mississippi River valley. Chicago lies on Lake Michigan in the northeast, while Springfield, the state capital, is farther south in central Illinois. The state's Prairie State identity reflects its grassland heritage, alongside farmland, river corridors, and large urban communities. Its historic sites include Lincoln Home in Springfield and Pullman's planned industrial community in Chicago. The contrast between the Chicago metropolitan area and communities across central and southern Illinois is an important part of its regional character.",
+    "contextSources": [
+      {
+        "label": "State of Illinois: state facts",
+        "url": "https://www.illinois.gov/about/fun-facts.html"
+      },
+      {
+        "label": "National Park Service: Illinois",
+        "url": "https://www.nps.gov/state/il/index.htm"
+      }
+    ]
+  },
+  {
+    "state": "IN",
+    "governor": {
+      "name": "Mike Braun",
+      "url": "https://www.in.gov/gov/about-the-governor/about-governor-mike-braun"
+    },
+    "checked": "2026-11-09",
+    "researchNotes": "Ben Smaltz was selected by his caucus as Speaker-elect on November4,2026. This is distinct from formal election by the House; he is not labeled seated Speaker.",
+    "name": "Indiana",
+    "region": "Midwest",
+    "division": "East North Central",
+    "location": "Indiana is in the Great Lakes Midwest. The U.S. Census Bureau groups it in the Midwest region’s East North Central division.",
+    "geographySource": "https://www.census.gov/programs-surveys/economic-census/guidance-geographies/levels.html",
+    "senators": [
+      {
+        "role": "U.S. Senator",
+        "name": "Jim Banks",
+        "url": "https://www.banks.senate.gov/",
+        "source": "https://www.senate.gov/senators/"
+      },
+      {
+        "role": "U.S. Senator",
+        "name": "Todd Young",
+        "url": "https://www.young.senate.gov",
+        "source": "https://www.senate.gov/senators/"
+      }
+    ],
+    "description": "Indiana is a Midwestern state linking the Great Lakes region with the Ohio River valley. Indianapolis is the capital; Fort Wayne, South Bend, Evansville and the cities of northwest Indiana serve other regions. Agricultural plains dominate much of the state, with wooded hills farther south and a short Lake Michigan shoreline in the northwest. Indiana Dunes protects beaches, dunes, wetlands and woodland habitats. Sites at Vincennes and Lincoln City reflect different periods of American history, connecting river settlements and rural landscapes with national events.",
+    "contextSources": [
+      {
+        "label": "National Park Service: state places and landscapes",
+        "url": "https://www.nps.gov/state/in/index.htm"
+      }
+    ]
+  },
+  {
+    "state": "IA",
+    "governor": {
+      "name": "Kim Reynolds",
+      "url": "https://governor.iowa.gov/"
+    },
+    "checked": "2026-11-09",
+    "name": "Iowa",
+    "region": "Midwest",
+    "division": "West North Central",
+    "location": "Iowa is in the Midwest. The U.S. Census Bureau groups it in the Midwest region’s West North Central division.",
+    "geographySource": "https://www.census.gov/programs-surveys/economic-census/guidance-geographies/levels.html",
+    "senators": [
+      {
+        "role": "U.S. Senator",
+        "name": "Joni Ernst",
+        "url": "https://www.ernst.senate.gov",
+        "source": "https://www.senate.gov/senators/"
+      },
+      {
+        "role": "U.S. Senator",
+        "name": "Chuck Grassley",
+        "url": "https://www.grassley.senate.gov",
+        "source": "https://www.senate.gov/senators/"
+      }
+    ],
+    "description": "Iowa is in the Midwest, between the Missouri River region to the west and the Mississippi River to the east. Des Moines is the capital; Cedar Rapids, Davenport, Sioux City and Iowa City are other important centers. Rolling agricultural landscapes, prairie remnants and river valleys characterize much of the state. Northeastern Iowa's Upper Mississippi scenery includes the culturally significant Effigy Mounds landscape. Historic routes and Herbert Hoover's birthplace at West Branch add migration and community stories to a state often associated with farming and small towns.",
+    "contextSources": [
+      {
+        "label": "National Park Service: state places and landscapes",
+        "url": "https://www.nps.gov/state/ia/index.htm"
+      }
+    ]
+  },
+  {
+    "state": "KS",
+    "governor": {
+      "name": "Laura Kelly",
+      "url": "https://www.governor.ks.gov/about-the-office/governor-laura-kelly"
+    },
+    "checked": "2026-11-09",
+    "name": "Kansas",
+    "region": "Midwest",
+    "division": "West North Central",
+    "location": "Kansas is in the central Great Plains. The U.S. Census Bureau groups it in the Midwest region’s West North Central division.",
+    "geographySource": "https://www.census.gov/programs-surveys/economic-census/guidance-geographies/levels.html",
+    "senators": [
+      {
+        "role": "U.S. Senator",
+        "name": "Roger Marshall",
+        "url": "https://www.marshall.senate.gov",
+        "source": "https://www.senate.gov/senators/"
+      },
+      {
+        "role": "U.S. Senator",
+        "name": "Jerry Moran",
+        "url": "https://www.moran.senate.gov",
+        "source": "https://www.senate.gov/senators/"
+      }
+    ],
+    "description": "Kansas lies in the central United States, spanning the transition from wooded eastern river valleys to the more open plains of the west. Topeka is the capital; Wichita, Kansas City, Lawrence and Manhattan are other notable cities. Prairie landscapes, agricultural land and historic overland routes shape its regional character. Tallgrass Prairie National Preserve represents the Flint Hills, while Fort Larned and Fort Scott interpret frontier history. In Topeka, Brown v. Board of Education National Historical Park connects Kansas with the national struggle over school segregation.",
+    "contextSources": [
+      {
+        "label": "National Park Service: state places and landscapes",
+        "url": "https://www.nps.gov/state/ks/index.htm"
+      }
+    ]
+  },
+  {
+    "state": "KY",
+    "governor": {
+      "name": "Andy Beshear",
+      "url": "https://governor.ky.gov/"
+    },
+    "checked": "2026-11-09",
+    "name": "Kentucky",
+    "region": "South",
+    "division": "East South Central",
+    "location": "Kentucky is in the Upland South. The U.S. Census Bureau groups it in the South region’s East South Central division.",
+    "geographySource": "https://www.census.gov/programs-surveys/economic-census/guidance-geographies/levels.html",
+    "senators": [
+      {
+        "role": "U.S. Senator",
+        "name": "Mitch McConnell",
+        "url": "https://www.mcconnell.senate.gov/",
+        "source": "https://www.senate.gov/senators/"
+      },
+      {
+        "role": "U.S. Senator",
+        "name": "Rand Paul",
+        "url": "https://www.paul.senate.gov",
+        "source": "https://www.senate.gov/senators/"
+      }
+    ],
+    "description": "Kentucky lies between the Ohio River region and the Appalachian uplands, combining southern and Ohio Valley connections. Frankfort is the capital; Louisville, Lexington and Bowling Green are major centers. The landscape includes Bluegrass farmland, forested eastern mountains, river valleys and extensive cave country. Mammoth Cave, Cumberland Gap and Big South Fork illustrate very different natural settings. Sites associated with Abraham Lincoln and Camp Nelson add national historical significance. Kentucky's central position links Appalachian communities, inland waterways and the broader South and Midwest.",
+    "contextSources": [
+      {
+        "label": "National Park Service: state places and landscapes",
+        "url": "https://www.nps.gov/state/ky/index.htm"
+      }
+    ]
+  },
+  {
+    "state": "LA",
+    "governor": {
+      "name": "Jeff Landry",
+      "url": "https://gov.louisiana.gov/"
+    },
+    "checked": "2026-11-09",
+    "name": "Louisiana",
+    "region": "South",
+    "division": "West South Central",
+    "location": "Louisiana is in the Gulf South. The U.S. Census Bureau groups it in the South region’s West South Central division.",
+    "geographySource": "https://www.census.gov/programs-surveys/economic-census/guidance-geographies/levels.html",
+    "senators": [
+      {
+        "role": "U.S. Senator",
+        "name": "Bill Cassidy",
+        "url": "https://www.cassidy.senate.gov",
+        "source": "https://www.senate.gov/senators/"
+      },
+      {
+        "role": "U.S. Senator",
+        "name": "John Kennedy",
+        "url": "https://www.kennedy.senate.gov",
+        "source": "https://www.senate.gov/senators/"
+      }
+    ],
+    "description": "Louisiana is in the south-central United States, where the lower Mississippi River approaches the Gulf Coast. Baton Rouge is the capital; New Orleans, Shreveport, Lafayette and Lake Charles anchor different regions. River floodplains, bayous, coastal marshes, agricultural land and northern uplands create a varied setting. Jean Lafitte's sites connect wetlands with the New Orleans region and Cajun traditions, while Cane River preserves Creole cultural landscapes. French, Spanish, African American, Indigenous and other histories remain visible in Louisiana's places, music and communities.",
+    "contextSources": [
+      {
+        "label": "National Park Service: state places and landscapes",
+        "url": "https://www.nps.gov/state/la/index.htm"
+      }
+    ]
+  },
+  {
+    "state": "ME",
+    "governor": {
+      "name": "Janet T. Mills",
+      "url": "https://www1.maine.gov/portal/government/branches.html"
+    },
+    "checked": "2026-11-09",
+    "name": "Maine",
+    "region": "Northeast",
+    "division": "New England",
+    "location": "Maine is in New England in the northeastern United States. The U.S. Census Bureau groups it in the Northeast region’s New England division.",
+    "geographySource": "https://www.census.gov/programs-surveys/economic-census/guidance-geographies/levels.html",
+    "senators": [
+      {
+        "role": "U.S. Senator",
+        "name": "Susan M. Collins",
+        "url": "https://www.collins.senate.gov",
+        "source": "https://www.senate.gov/senators/"
+      },
+      {
+        "role": "U.S. Senator",
+        "name": "Angus S., Jr. King",
+        "url": "https://www.king.senate.gov/",
+        "source": "https://www.senate.gov/senators/"
+      }
+    ],
+    "description": "Maine occupies the northeastern corner of New England, where the Atlantic coast meets an inland landscape of forests, lakes and Appalachian mountains. Portland and Casco Bay form a major metropolitan and coastal center, while Augusta lies inland in the Kennebec Valley. The Midcoast links fishing communities and maritime towns; western Maine is shaped by lakes and mountains. Farther north, the state extends toward Quebec and New Brunswick, giving its coastal and inland communities distinct regional settings.",
+    "contextSources": [
+      {
+        "label": "Maine Office of Business Development: Regions",
+        "url": "https://www.maine.gov/decd/business-development/move/regions"
+      }
+    ]
+  },
+  {
+    "state": "MD",
+    "governor": {
+      "name": "Wes Moore",
+      "url": "https://governor.maryland.gov/leadership"
+    },
+    "checked": "2026-11-09",
+    "name": "Maryland",
+    "region": "South",
+    "division": "South Atlantic",
+    "location": "Maryland is in the Mid-Atlantic. The U.S. Census Bureau groups it in the South region’s South Atlantic division.",
+    "geographySource": "https://www.census.gov/programs-surveys/economic-census/guidance-geographies/levels.html",
+    "senators": [
+      {
+        "role": "U.S. Senator",
+        "name": "Angela D. Alsobrooks",
+        "url": "https://alsobrooks.senate.gov/",
+        "source": "https://www.senate.gov/senators/"
+      },
+      {
+        "role": "U.S. Senator",
+        "name": "Chris Van Hollen",
+        "url": "https://www.vanhollen.senate.gov",
+        "source": "https://www.senate.gov/senators/"
+      }
+    ],
+    "description": "Maryland lies in the Mid-Atlantic, with the Chesapeake Bay dividing much of its eastern and western geography. Baltimore is a major harbor and urban center, while Annapolis sits on the Severn River near the Bay. Communities around Washington, D.C., connect the state to the wider capital region. Beyond these metropolitan areas, the Eastern Shore and Southern Maryland include coastal and agricultural landscapes, and Western Maryland rises through the Piedmont toward forested Appalachian ridges.",
+    "contextSources": [
+      {
+        "label": "Maryland Transportation Plan: Regional Geography",
+        "url": "https://www.mdot.maryland.gov/OPCP/MTP_Playbook_web.pdf"
+      },
+      {
+        "label": "Maryland Legislative Services: Annapolis",
+        "url": "https://dls.maryland.gov/about-us/about-annapolis/"
+      }
+    ]
+  },
+  {
+    "state": "MA",
+    "governor": {
+      "name": "Maura Healey",
+      "url": "https://www.mass.gov/topics/executive-branch"
+    },
+    "checked": "2026-11-09",
+    "name": "Massachusetts",
+    "region": "Northeast",
+    "division": "New England",
+    "location": "Massachusetts is in New England in the northeastern United States. The U.S. Census Bureau groups it in the Northeast region’s New England division.",
+    "geographySource": "https://www.census.gov/programs-surveys/economic-census/guidance-geographies/levels.html",
+    "senators": [
+      {
+        "role": "U.S. Senator",
+        "name": "Edward J. Markey",
+        "url": "https://www.markey.senate.gov",
+        "source": "https://www.senate.gov/senators/"
+      },
+      {
+        "role": "U.S. Senator",
+        "name": "Elizabeth Warren",
+        "url": "https://www.warren.senate.gov",
+        "source": "https://www.senate.gov/senators/"
+      }
+    ],
+    "description": "Massachusetts stretches across southern New England from the Atlantic coast to the Berkshire hills. Boston anchors its eastern urban region, Worcester occupies the central part of the Commonwealth, and the Connecticut River valley connects western cities and towns. The landscape changes from densely settled coastal communities to inland hills, farmland and forest. Cape Cod and its beaches extend into the Atlantic, while historic mill towns and smaller communities connect the state’s coastal, central and western regions.",
+    "contextSources": [
+      {
+        "label": "Commonwealth cities and towns",
+        "url": "https://www.mass.gov/info-details/cities-and-towns-of-the-commonwealth-of-massachusetts-at-250"
+      }
+    ]
+  },
+  {
+    "state": "MI",
+    "governor": {
+      "name": "Gretchen Whitmer",
+      "url": "https://www.michigan.gov/whitmer"
+    },
+    "checked": "2026-11-09",
+    "name": "Michigan",
+    "region": "Midwest",
+    "division": "East North Central",
+    "location": "Michigan is in the Great Lakes Midwest. The U.S. Census Bureau groups it in the Midwest region’s East North Central division.",
+    "geographySource": "https://www.census.gov/programs-surveys/economic-census/guidance-geographies/levels.html",
+    "senators": [
+      {
+        "role": "U.S. Senator",
+        "name": "Gary C. Peters",
+        "url": "https://www.peters.senate.gov",
+        "source": "https://www.senate.gov/senators/"
+      },
+      {
+        "role": "U.S. Senator",
+        "name": "Elissa Slotkin",
+        "url": "https://www.slotkin.senate.gov/",
+        "source": "https://www.senate.gov/senators/"
+      }
+    ],
+    "description": "Michigan is a Great Lakes state composed of two peninsulas. The Lower Peninsula contains Detroit, Grand Rapids, Lansing, Ann Arbor and other major urban centers; the Upper Peninsula extends between Lake Superior and the waters of Lakes Michigan and Huron. Glaciers shaped the state’s surface, leaving lakes, shorelines and varied soils. Its geography combines metropolitan areas and agricultural land with extensive northern forests, connecting inland communities to freshwater coasts rather than an ocean shoreline.",
+    "contextSources": [
+      {
+        "label": "State of Michigan: About Michigan",
+        "url": "https://www.michigan.gov/som/about-michigan"
+      },
+      {
+        "label": "Michigan climate and health profile",
+        "url": "https://www.michigan.gov/-/media/Project/Websites/mdhhs/Folder3/Folder11/Folder2/Folder111/Folder1/Folder211/MI_Climate_and_Health_Profile.pdf?rev=ab2c0a4563ff4310b7811cfcfc077a42"
+      }
+    ]
+  },
+  {
+    "state": "MN",
+    "governor": {
+      "name": "Tim Walz",
+      "url": "https://mn.gov/governor/about-gov/timwalz/?os=io"
+    },
+    "checked": "2026-11-09",
+    "name": "Minnesota",
+    "region": "Midwest",
+    "division": "West North Central",
+    "location": "Minnesota is in the Upper Midwest. The U.S. Census Bureau groups it in the Midwest region’s West North Central division.",
+    "geographySource": "https://www.census.gov/programs-surveys/economic-census/guidance-geographies/levels.html",
+    "senators": [
+      {
+        "role": "U.S. Senator",
+        "name": "Amy Klobuchar",
+        "url": "https://www.klobuchar.senate.gov/",
+        "source": "https://www.senate.gov/senators/"
+      },
+      {
+        "role": "U.S. Senator",
+        "name": "Tina Smith",
+        "url": "https://www.smith.senate.gov",
+        "source": "https://www.senate.gov/senators/"
+      }
+    ],
+    "description": "Minnesota lies in the north-central United States along the Canadian border, with Lake Superior and Wisconsin to the east and the Dakotas to the west. Minneapolis and Saint Paul form the Twin Cities metropolitan area. The state brings together prairie and agricultural landscapes in the west and south, northern coniferous forests, and eastern hardwood country. Lakes and river systems connect these regions, while northeastern Minnesota includes the forested Iron Range and the Lake Superior shore.",
+    "contextSources": [
+      {
+        "label": "Minnesota: About the State",
+        "url": "https://mn.gov/portal/about-minnesota/"
+      },
+      {
+        "label": "Minnesota Secretary of State: Profile",
+        "url": "https://www.sos.mn.gov/about-minnesota/minnesota-in-profile/"
+      }
+    ]
+  },
+  {
+    "state": "MS",
+    "governor": {
+      "name": "Tate Reeves",
+      "url": "https://governorreeves.ms.gov/"
+    },
+    "checked": "2026-11-09",
+    "name": "Mississippi",
+    "region": "South",
+    "division": "East South Central",
+    "location": "Mississippi is in the Gulf South. The U.S. Census Bureau groups it in the South region’s East South Central division.",
+    "geographySource": "https://www.census.gov/programs-surveys/economic-census/guidance-geographies/levels.html",
+    "senators": [
+      {
+        "role": "U.S. Senator",
+        "name": "Cindy Hyde-Smith",
+        "url": "https://www.hydesmith.senate.gov/",
+        "source": "https://www.senate.gov/senators/"
+      },
+      {
+        "role": "U.S. Senator",
+        "name": "Roger F. Wicker",
+        "url": "https://www.wicker.senate.gov",
+        "source": "https://www.senate.gov/senators/"
+      }
+    ],
+    "description": "Mississippi is a southeastern state shaped by the Mississippi River along its western side and the Gulf Coast to the south. Jackson sits within the Capital/River region, which links inland communities toward Vicksburg and Natchez. The northwest Delta is an alluvial landscape, distinct from the hills of northern Mississippi and the pine country farther east and south. These regions connect river towns, agricultural areas and coastal communities across a largely lowland landscape with varied local terrain.",
+    "contextSources": [
+      {
+        "label": "Mississippi Secretary of State: Natural Resources",
+        "url": "https://www.sos.ms.gov/content/documents/ed_pubs/pubs/BlueBook20-24/5%20Natural%20Resources.pdf"
+      }
+    ]
+  },
+  {
+    "state": "MO",
+    "governor": {
+      "name": "Mike Kehoe",
+      "url": "https://governor.mo.gov/"
+    },
+    "checked": "2026-11-09",
+    "name": "Missouri",
+    "region": "Midwest",
+    "division": "West North Central",
+    "location": "Missouri is in the Midwest. The U.S. Census Bureau groups it in the Midwest region’s West North Central division.",
+    "geographySource": "https://www.census.gov/programs-surveys/economic-census/guidance-geographies/levels.html",
+    "senators": [
+      {
+        "role": "U.S. Senator",
+        "name": "Josh Hawley",
+        "url": "https://www.hawley.senate.gov",
+        "source": "https://www.senate.gov/senators/"
+      },
+      {
+        "role": "U.S. Senator",
+        "name": "Eric Schmitt",
+        "url": "https://www.schmitt.senate.gov/",
+        "source": "https://www.senate.gov/senators/"
+      }
+    ],
+    "description": "Missouri occupies a central position in the United States, connecting Midwestern river corridors with the uplands of the Ozarks. St. Louis stands near the meeting of the Missouri and Mississippi river systems, while Kansas City anchors the western side of the state and Jefferson City serves as the capital. The landscape includes northern plains, river valleys and the wooded, spring-fed Ozark region. Its rivers link urban centers with agricultural communities and recreation areas across the state.",
+    "contextSources": [
+      {
+        "label": "Missouri Natural Resources: Physiographic Regions",
+        "url": "https://dnr.mo.gov/document-search/physiographic-regions-mo-pub2515/pub2515"
+      },
+      {
+        "label": "Missouri Natural Resources: Interstate Waters",
+        "url": "https://dnr.mo.gov/water/hows-water/sources/interstate"
+      }
+    ]
+  },
+  {
+    "state": "MT",
+    "governor": {
+      "name": "Greg Gianforte",
+      "url": "https://directory.mt.gov/govt/state-dir/agency/gov"
+    },
+    "checked": "2026-11-09",
+    "name": "Montana",
+    "region": "West",
+    "division": "Mountain",
+    "location": "Montana is in the northern Rocky Mountain West. The U.S. Census Bureau groups it in the West region’s Mountain division.",
+    "geographySource": "https://www.census.gov/programs-surveys/economic-census/guidance-geographies/levels.html",
+    "senators": [
+      {
+        "role": "U.S. Senator",
+        "name": "Steve Daines",
+        "url": "https://www.daines.senate.gov",
+        "source": "https://www.senate.gov/senators/"
+      },
+      {
+        "role": "U.S. Senator",
+        "name": "Tim Sheehy",
+        "url": "https://www.sheehy.senate.gov/",
+        "source": "https://www.senate.gov/senators/"
+      }
+    ],
+    "description": "Montana spans the northern Rocky Mountains and the northern Great Plains along the Canadian border. Western Montana contains mountain ranges, forested slopes, lakes and fertile valleys, while central and eastern areas open into foothills and broad plains. Helena, Billings, Missoula, Great Falls and Bozeman are among its regional centers. The Continental Divide helps shape differences in weather and drainage, giving mountain communities and plains communities distinct landscapes within the same large western state.",
+    "contextSources": [
+      {
+        "label": "Montana Historical Society: Three Regions",
+        "url": "https://mhs.mt.gov/education/docs/Geography-LPFinal.pdf"
+      },
+      {
+        "label": "Montana air monitoring geography",
+        "url": "https://deq.mt.gov/files/Air/AirMonitoring/Documents/2025_MNA_DRAFT.pdf"
+      }
+    ]
+  },
+  {
+    "state": "NE",
+    "governor": {
+      "name": "Jim Pillen",
+      "url": "https://governor.nebraska.gov/about-governor-jim-pillen"
+    },
+    "checked": "2026-11-09",
+    "name": "Nebraska",
+    "region": "Midwest",
+    "division": "West North Central",
+    "location": "Nebraska is in the central Great Plains. The U.S. Census Bureau groups it in the Midwest region’s West North Central division.",
+    "geographySource": "https://www.census.gov/programs-surveys/economic-census/guidance-geographies/levels.html",
+    "senators": [
+      {
+        "role": "U.S. Senator",
+        "name": "Deb Fischer",
+        "url": "https://www.fischer.senate.gov",
+        "source": "https://www.senate.gov/senators/"
+      },
+      {
+        "role": "U.S. Senator",
+        "name": "Pete Ricketts",
+        "url": "https://www.ricketts.senate.gov",
+        "source": "https://www.senate.gov/senators/"
+      }
+    ],
+    "description": "Nebraska stretches across the central Great Plains, with Omaha and Lincoln anchoring its eastern metropolitan region. The Platte River corridor runs through the state and has long connected travel and settlement routes across the plains. North-central Nebraska contains the rolling Sandhills, while other regions combine cropland, river valleys and ranching landscapes. Its geography links eastern cities with smaller towns and open country farther west, giving the state a broader landscape than its familiar image of flat farmland suggests.",
+    "contextSources": [
+      {
+        "label": "History Nebraska: Brief History",
+        "url": "https://history.nebraska.gov/wp-content/uploads/2018/05/doc_publications_Brief_History_excerpt.pdf"
+      },
+      {
+        "label": "History Nebraska: Agricultural Landscapes",
+        "url": "https://history.nebraska.gov/wp-content/uploads/2025/07/Agriculture-in-Nebraska_1850s-to-1960s_Final-Report_05152025-1.pdf"
+      }
+    ]
+  },
+  {
+    "state": "NV",
+    "governor": {
+      "name": "Joe Lombardo",
+      "url": "https://int.gov.nv.gov/about/governor-joe-lombardo/"
+    },
+    "checked": "2026-11-09",
+    "name": "Nevada",
+    "region": "West",
+    "division": "Mountain",
+    "location": "Nevada is in the interior western United States. The U.S. Census Bureau groups it in the West region’s Mountain division.",
+    "geographySource": "https://www.census.gov/programs-surveys/economic-census/guidance-geographies/levels.html",
+    "senators": [
+      {
+        "role": "U.S. Senator",
+        "name": "Catherine Cortez Masto",
+        "url": "https://www.cortezmasto.senate.gov",
+        "source": "https://www.senate.gov/senators/"
+      },
+      {
+        "role": "U.S. Senator",
+        "name": "Jacky Rosen",
+        "url": "https://www.rosen.senate.gov",
+        "source": "https://www.senate.gov/senators/"
+      }
+    ],
+    "description": "Nevada lies in the interior West, where north–south mountain ranges alternate with broad valleys across much of the state. Most of its territory belongs to the Great Basin, where water drains inland rather than reaching the ocean. Southern Nevada extends into the Mojave Desert around Las Vegas and Henderson. Reno and Carson City anchor the northwestern urban region near the Sierra Nevada and Lake Tahoe, while smaller communities connect the state’s extensive mountain and desert landscapes.",
+    "contextSources": [
+      {
+        "label": "Nevada Emergency Management: Physical Geography",
+        "url": "https://dem.nv.gov/uploadedfiles/demnvgov/content/dem/0_hazardmitigationplan_full.pdf"
+      },
+      {
+        "label": "Nevada Economic Development: Nevada Life",
+        "url": "https://goed.nv.gov/nevada-life/"
+      }
+    ]
+  },
+  {
+    "state": "NH",
+    "governor": {
+      "name": "Kelly Ayotte",
+      "url": "https://gc.nh.gov/lba/Budget/FiscalItems/2026-03-20_Agenda_Items/FIS_26-062.pdf"
+    },
+    "checked": "2026-11-09",
+    "name": "New Hampshire",
+    "region": "Northeast",
+    "division": "New England",
+    "location": "New Hampshire is in New England in the northeastern United States. The U.S. Census Bureau groups it in the Northeast region’s New England division.",
+    "geographySource": "https://www.census.gov/programs-surveys/economic-census/guidance-geographies/levels.html",
+    "senators": [
+      {
+        "role": "U.S. Senator",
+        "name": "Margaret Wood Hassan",
+        "url": "https://www.hassan.senate.gov",
+        "source": "https://www.senate.gov/senators/"
+      },
+      {
+        "role": "U.S. Senator",
+        "name": "Jeanne Shaheen",
+        "url": "https://www.shaheen.senate.gov",
+        "source": "https://www.senate.gov/senators/"
+      }
+    ],
+    "description": "New Hampshire lies in northern New England, extending from a short Atlantic coastal region through inland valleys and lakes toward the White Mountains and the Canadian border. Concord and Manchester are important centers in the Merrimack Valley, while communities in the north and around the mountains have a different physical setting. Coastal lowlands, uplands and mountain terrain create substantial local variation. Forested slopes, river corridors and compact towns connect the state’s southern urban communities with its more mountainous northern landscapes.",
+    "contextSources": [
+      {
+        "label": "New Hampshire: Geography and Climate",
+        "url": "https://prd.blogs.nh.gov/dos/hsem/wp-content/uploads/2015/11/State-of-New-Hampshire-Multi-Hazard-Mitigation-Plan-Update-2018_FINAL.pdf"
+      },
+      {
+        "label": "New Hampshire geographic areas",
+        "url": "https://www.nhes.nh.gov/elmi/tools/documents/nh-geo-areas-town.pdf"
+      }
+    ]
+  },
+  {
+    "state": "NJ",
+    "governor": {
+      "name": "Mikie Sherrill",
+      "url": "https://nj.gov/governor/admin/about/"
+    },
+    "checked": "2026-11-09",
+    "name": "New Jersey",
+    "region": "Northeast",
+    "division": "Middle Atlantic",
+    "location": "New Jersey is in the Mid-Atlantic in the northeastern United States. The U.S. Census Bureau groups it in the Northeast region’s Middle Atlantic division.",
+    "geographySource": "https://www.census.gov/programs-surveys/economic-census/guidance-geographies/levels.html",
+    "senators": [
+      {
+        "role": "U.S. Senator",
+        "name": "Cory A. Booker",
+        "url": "https://www.booker.senate.gov",
+        "source": "https://www.senate.gov/senators/"
+      },
+      {
+        "role": "U.S. Senator",
+        "name": "Andy Kim",
+        "url": "https://www.kim.senate.gov/",
+        "source": "https://www.senate.gov/senators/"
+      }
+    ],
+    "description": "New Jersey occupies the Mid-Atlantic corridor between the New York and Philadelphia metropolitan regions. Newark and Jersey City are major northeastern urban centers, while Trenton lies along the Delaware River. The state’s terrain changes from northwestern uplands and the Highlands to the Piedmont and broad southern coastal plain. Atlantic beaches and bays define the eastern edge, while the Delaware River and Bay frame much of the west and southwest, connecting densely settled cities with wooded and coastal communities.",
+    "contextSources": [
+      {
+        "label": "New Jersey: Topography",
+        "url": "https://www.nj.gov/njfilm/about-topography.shtml"
+      },
+      {
+        "label": "New Jersey Coastal Management",
+        "url": "https://www.nj.gov/dep/cmp/"
+      }
+    ]
+  },
+  {
+    "state": "NM",
+    "governor": {
+      "name": "Michelle Lujan Grisham",
+      "url": "https://www.governor.state.nm.us/about-the-governor/"
+    },
+    "checked": "2026-11-09",
+    "name": "New Mexico",
+    "region": "West",
+    "division": "Mountain",
+    "location": "New Mexico is in the Southwest. The U.S. Census Bureau groups it in the West region’s Mountain division.",
+    "geographySource": "https://www.census.gov/programs-surveys/economic-census/guidance-geographies/levels.html",
+    "senators": [
+      {
+        "role": "U.S. Senator",
+        "name": "Martin Heinrich",
+        "url": "https://www.heinrich.senate.gov/",
+        "source": "https://www.senate.gov/senators/"
+      },
+      {
+        "role": "U.S. Senator",
+        "name": "Ben Ray Luján",
+        "url": "https://www.lujan.senate.gov",
+        "source": "https://www.senate.gov/senators/"
+      }
+    ],
+    "description": "New Mexico is a southwestern state where high mountains, plateaus and desert basins create a varied landscape. The Rio Grande corridor links Albuquerque and the region around Santa Fe, with mountain ranges rising nearby. Northern New Mexico includes part of the Rocky Mountain system, while southern landscapes include desert country and White Sands. Elevation strongly influences local conditions, so forested highlands and dry lowlands coexist. River valleys and long-established communities connect these distinct regions across the state.",
+    "contextSources": [
+      {
+        "label": "New Mexico Economic Development: Climate and Geography",
+        "url": "https://edd.newmexico.gov/choose-new-mexico/climate-and-geography/"
+      },
+      {
+        "label": "National Park Service: Rio Grande corridor",
+        "url": "https://www.nps.gov/elca/learn/historyculture/upload/National-Register-of-Historic-Places-Multiple-Properties-508.pdf"
+      }
+    ]
+  },
+  {
+    "state": "NY",
+    "governor": {
+      "name": "Kathy Hochul",
+      "url": "https://www.governor.ny.gov/"
+    },
+    "checked": "2026-11-09",
+    "name": "New York",
+    "region": "Northeast",
+    "division": "Middle Atlantic",
+    "location": "New York is in the Mid-Atlantic in the northeastern United States. The U.S. Census Bureau groups it in the Northeast region’s Middle Atlantic division.",
+    "geographySource": "https://www.census.gov/programs-surveys/economic-census/guidance-geographies/levels.html",
+    "senators": [
+      {
+        "role": "U.S. Senator",
+        "name": "Kirsten E. Gillibrand",
+        "url": "https://www.gillibrand.senate.gov",
+        "source": "https://www.senate.gov/senators/"
+      },
+      {
+        "role": "U.S. Senator",
+        "name": "Charles E. Schumer",
+        "url": "https://www.schumer.senate.gov/",
+        "source": "https://www.senate.gov/senators/"
+      }
+    ],
+    "description": "New York extends from Atlantic coastal communities and New York Harbor to inland river valleys, mountains, and the Great Lakes region. Albany is the state capital, while New York City is a separate city at the southeastern end of the state. The Hudson Valley, Long Island, western New York, and the state's northern communities have distinct landscapes and histories. Coastal estuaries include the Hudson River Estuary, Long Island Sound, and the Peconic Bays system. National historic sites preserve stories of immigration, civil rights, industry, and the American Revolution.",
+    "contextSources": [
+      {
+        "label": "New York State: Albany",
+        "url": "https://www.ny.gov/counties/albany"
+      },
+      {
+        "label": "NYS Department of Environmental Conservation: coastal waters",
+        "url": "https://dec.ny.gov/nature/waterbodies/oceans-estuaries"
+      },
+      {
+        "label": "National Park Service: New York",
+        "url": "https://www.nps.gov/state/ny/index.htm"
+      }
+    ]
+  },
+  {
+    "state": "NC",
+    "governor": {
+      "name": "Josh Stein",
+      "url": "https://governor.nc.gov/josh-stein"
+    },
+    "checked": "2026-11-09",
+    "name": "North Carolina",
+    "region": "South",
+    "division": "South Atlantic",
+    "location": "North Carolina is in the southeastern United States. The U.S. Census Bureau groups it in the South region’s South Atlantic division.",
+    "geographySource": "https://www.census.gov/programs-surveys/economic-census/guidance-geographies/levels.html",
+    "senators": [
+      {
+        "role": "U.S. Senator",
+        "name": "Ted Budd",
+        "url": "https://www.budd.senate.gov/",
+        "source": "https://www.senate.gov/senators/"
+      },
+      {
+        "role": "U.S. Senator",
+        "name": "Thom Tillis",
+        "url": "https://www.tillis.senate.gov",
+        "source": "https://www.senate.gov/senators/"
+      }
+    ],
+    "description": "North Carolina extends from the Blue Ridge Mountains in the west across the Piedmont to the Atlantic Coastal Plain. Charlotte, the Triangle around Raleigh and Durham, and the Triad around Greensboro and Winston-Salem are important inland urban regions. The Piedmont has rolling hills and broad valleys, while eastern terrain becomes flatter toward sounds, barrier islands and the ocean. These mountain, central and coastal settings give communities different landscapes and connect the state to both Appalachian and Atlantic regional geography.",
+    "contextSources": [
+      {
+        "label": "North Carolina Geological Survey: Physiography",
+        "url": "https://files.nc.gov/ncdeq/Energy%20Mineral%20and%20Land%20Resources/Geological%20Survey/NC_Generalized_Geologic_Map_Description.pdf"
+      },
+      {
+        "label": "North Carolina Piedmont",
+        "url": "https://www.dncr.nc.gov/things-do/trip-ideas/experience-north-carolina-piedmont"
+      }
+    ]
+  },
+  {
+    "state": "ND",
+    "governor": {
+      "name": "Kelly Armstrong",
+      "url": "https://www.governor.nd.gov/governor-kelly-armstrong"
+    },
+    "checked": "2026-11-09",
+    "name": "North Dakota",
+    "region": "Midwest",
+    "division": "West North Central",
+    "location": "North Dakota is in the northern Great Plains. The U.S. Census Bureau groups it in the Midwest region’s West North Central division.",
+    "geographySource": "https://www.census.gov/programs-surveys/economic-census/guidance-geographies/levels.html",
+    "senators": [
+      {
+        "role": "U.S. Senator",
+        "name": "Kevin Cramer",
+        "url": "https://www.cramer.senate.gov",
+        "source": "https://www.senate.gov/senators/"
+      },
+      {
+        "role": "U.S. Senator",
+        "name": "John Hoeven",
+        "url": "https://www.hoeven.senate.gov",
+        "source": "https://www.senate.gov/senators/"
+      }
+    ],
+    "description": "North Dakota lies on the northern Great Plains along the Canadian border. Fargo and Grand Forks are eastern centers near the Red River, which flows north and forms the boundary with Minnesota. Bismarck lies farther west along the Missouri River. The state’s landscape ranges from the agricultural Red River Valley and prairie country to the rugged western Badlands. Around the Little Missouri River, erosion has exposed buttes, rock outcrops and deeply cut terrain distinct from the open plains.",
+    "contextSources": [
+      {
+        "label": "North Dakota Game and Fish: Geological Regions",
+        "url": "https://gf.nd.gov/ecology/ecoregion"
+      },
+      {
+        "label": "North Dakota Mineral Resources: Badlands",
+        "url": "https://www.dmr.nd.gov/dmr/ndgs/badlands"
+      }
+    ]
+  },
+  {
+    "state": "OH",
+    "governor": {
+      "name": "Mike DeWine",
+      "url": "https://governor.ohio.gov/administration/governor"
+    },
+    "checked": "2026-11-09",
+    "name": "Ohio",
+    "region": "Midwest",
+    "division": "East North Central",
+    "location": "Ohio is in the Great Lakes Midwest. The U.S. Census Bureau groups it in the Midwest region’s East North Central division.",
+    "geographySource": "https://www.census.gov/programs-surveys/economic-census/guidance-geographies/levels.html",
+    "senators": [
+      {
+        "role": "U.S. Senator",
+        "name": "Jon Husted",
+        "url": "https://www.husted.senate.gov/",
+        "source": "https://www.senate.gov/senators/"
+      },
+      {
+        "role": "U.S. Senator",
+        "name": "Bernie Moreno",
+        "url": "https://www.moreno.senate.gov",
+        "source": "https://www.senate.gov/senators/"
+      }
+    ],
+    "description": "Ohio lies in the Midwest between Lake Erie to the north and the Ohio River along its southern and southeastern boundary. Cleveland, Columbus and Cincinnati form major urban centers along the I-71 corridor, with other cities and towns distributed across the state. Western Ohio includes glaciated plains, while the east and southeast transition toward the Appalachian Plateau. River valleys, agricultural land, wooded hills and the Lake Erie shore give the state several distinct regional landscapes and transportation connections.",
+    "contextSources": [
+      {
+        "label": "Ohio: Geography",
+        "url": "https://ohio.gov/residents/living-in-ohio/about-ohio/geography"
+      },
+      {
+        "label": "Ohio Emergency Management: Regional Overview",
+        "url": "https://ema.ohio.gov/mitigation-plan/introduction"
+      }
+    ]
+  },
+  {
+    "state": "OK",
+    "governor": {
+      "name": "Kevin Stitt",
+      "url": "https://www.oklegislature.gov/FindMyLegislature.aspx"
+    },
+    "checked": "2026-11-09",
+    "name": "Oklahoma",
+    "region": "South",
+    "division": "West South Central",
+    "location": "Oklahoma is in the south-central United States. The U.S. Census Bureau groups it in the South region’s West South Central division.",
+    "geographySource": "https://www.census.gov/programs-surveys/economic-census/guidance-geographies/levels.html",
+    "senators": [
+      {
+        "role": "U.S. Senator",
+        "name": "Alan Armstrong",
+        "url": "https://www.armstrong.senate.gov/",
+        "source": "https://www.senate.gov/senators/"
+      },
+      {
+        "role": "U.S. Senator",
+        "name": "James Lankford",
+        "url": "https://www.lankford.senate.gov",
+        "source": "https://www.senate.gov/senators/"
+      }
+    ],
+    "description": "Oklahoma sits where the southern Great Plains meet the wooded landscapes of the eastern United States. Oklahoma City and Tulsa are its principal urban centers, while smaller towns, agricultural areas and tribal communities extend across the state. Its natural settings include prairie, lakes and the springs and streams around Sulphur’s Chickasaw National Recreation Area. Historic routes such as the Santa Fe Trail and Butterfield Overland Trail place Oklahoma within the wider story of travel, trade and settlement across the continent.",
+    "contextSources": [
+      {
+        "label": "National Park Service — OK",
+        "url": "https://www.nps.gov/state/ok/index.htm"
+      }
+    ]
+  },
+  {
+    "state": "OR",
+    "governor": {
+      "name": "Tina Kotek",
+      "url": "https://www.oregon.gov/gov/Pages/index.aspx"
+    },
+    "checked": "2026-11-09",
+    "name": "Oregon",
+    "region": "West",
+    "division": "Pacific",
+    "location": "Oregon is in the Pacific Northwest. The U.S. Census Bureau groups it in the West region’s Pacific division.",
+    "geographySource": "https://www.census.gov/programs-surveys/economic-census/guidance-geographies/levels.html",
+    "senators": [
+      {
+        "role": "U.S. Senator",
+        "name": "Jeff Merkley",
+        "url": "https://www.merkley.senate.gov",
+        "source": "https://www.senate.gov/senators/"
+      },
+      {
+        "role": "U.S. Senator",
+        "name": "Ron Wyden",
+        "url": "https://www.wyden.senate.gov/",
+        "source": "https://www.senate.gov/senators/"
+      }
+    ],
+    "description": "Oregon occupies the Pacific Northwest, with a Pacific coastline, the Columbia River corridor, the Cascade Range and a drier interior to the east. Portland, Salem and Eugene form important urban centers in the western part of the state. Volcanic landscapes are especially visible at Crater Lake, while the John Day region preserves a different geological story. Rivers and migration routes connect Oregon with neighboring states, and the Columbia landscape still carries the effects of enormous Ice Age floods.",
+    "contextSources": [
+      {
+        "label": "National Park Service — OR",
+        "url": "https://www.nps.gov/state/or/index.htm"
+      }
+    ]
+  },
+  {
+    "state": "PA",
+    "governor": {
+      "name": "Josh Shapiro",
+      "url": "https://www.pa.gov/governor/about/governor-josh-shapiro"
+    },
+    "checked": "2026-11-09",
+    "name": "Pennsylvania",
+    "region": "Northeast",
+    "division": "Middle Atlantic",
+    "location": "Pennsylvania is in the Mid-Atlantic in the northeastern United States. The U.S. Census Bureau groups it in the Northeast region’s Middle Atlantic division.",
+    "geographySource": "https://www.census.gov/programs-surveys/economic-census/guidance-geographies/levels.html",
+    "senators": [
+      {
+        "role": "U.S. Senator",
+        "name": "John Fetterman",
+        "url": "https://www.fetterman.senate.gov/",
+        "source": "https://www.senate.gov/senators/"
+      },
+      {
+        "role": "U.S. Senator",
+        "name": "David McCormick",
+        "url": "https://mccormick.senate.gov/",
+        "source": "https://www.senate.gov/senators/"
+      }
+    ],
+    "description": "Pennsylvania connects the northeastern United States with the Appalachian interior. Philadelphia anchors its eastern urban landscape, Pittsburgh its western river valleys, and Harrisburg the Susquehanna corridor between them. Wooded ridges, agricultural valleys and former industrial communities give the state varied regional identities. The Allegheny Mountains historically shaped transport across Pennsylvania, illustrated by the Allegheny Portage Railroad. National park sites also preserve landscapes and places associated with the American Revolution, the Civil War and the nation’s industrial development.",
+    "contextSources": [
+      {
+        "label": "National Park Service — PA",
+        "url": "https://www.nps.gov/state/pa/index.htm"
+      }
+    ]
+  },
+  {
+    "state": "RI",
+    "governor": {
+      "name": "Daniel J. McKee",
+      "url": "https://www.rilegislature.gov/pressrelease/PDF_Docs/2026%20Elected%20Officials%20List.pdf"
+    },
+    "checked": "2026-11-09",
+    "name": "Rhode Island",
+    "region": "Northeast",
+    "division": "New England",
+    "location": "Rhode Island is in New England in the northeastern United States. The U.S. Census Bureau groups it in the Northeast region’s New England division.",
+    "geographySource": "https://www.census.gov/programs-surveys/economic-census/guidance-geographies/levels.html",
+    "senators": [
+      {
+        "role": "U.S. Senator",
+        "name": "Jack Reed",
+        "url": "https://www.reed.senate.gov/",
+        "source": "https://www.senate.gov/senators/"
+      },
+      {
+        "role": "U.S. Senator",
+        "name": "Sheldon Whitehouse",
+        "url": "https://www.whitehouse.senate.gov/",
+        "source": "https://www.senate.gov/senators/"
+      }
+    ],
+    "description": "Rhode Island lies in southern New England, where coastal communities and inland river valleys sit close together. Providence, Pawtucket and Newport illustrate different parts of its history: an urban capital, an early manufacturing center and a coastal port. The Blackstone River Valley links Rhode Island with neighboring Massachusetts and preserves the story of water-powered industry. Around Narragansett Bay and the Atlantic shore, beaches and waterfront places complement the state’s compact inland towns, historic neighborhoods and protected public spaces.",
+    "contextSources": [
+      {
+        "label": "National Park Service — RI",
+        "url": "https://www.nps.gov/state/ri/index.htm"
+      }
+    ]
+  },
+  {
+    "state": "SC",
+    "governor": {
+      "name": "Henry McMaster",
+      "url": "https://sc.gov/government/getting-know-your-government/elected-officials/constitutional-officers"
+    },
+    "checked": "2026-11-09",
+    "name": "South Carolina",
+    "region": "South",
+    "division": "South Atlantic",
+    "location": "South Carolina is in the southeastern United States. The U.S. Census Bureau groups it in the South region’s South Atlantic division.",
+    "geographySource": "https://www.census.gov/programs-surveys/economic-census/guidance-geographies/levels.html",
+    "senators": [
+      {
+        "role": "U.S. Senator",
+        "name": "Darline Graham",
+        "url": "https://www.dgraham.senate.gov/",
+        "source": "https://www.senate.gov/senators/"
+      },
+      {
+        "role": "U.S. Senator",
+        "name": "Tim Scott",
+        "url": "https://www.scott.senate.gov/",
+        "source": "https://www.senate.gov/senators/"
+      }
+    ],
+    "description": "South Carolina stretches from the Atlantic coastal Lowcountry through the Midlands to the Appalachian foothills of the Upstate. Charleston, Columbia and Greenville are important regional centers within these contrasting settings. Rivers and floodplains are central to the landscape; Congaree National Park protects an extensive old-growth bottomland hardwood forest near Hopkins. Charleston Harbor’s forts connect coastal geography with Revolutionary and Civil War history, while inland battlefield sites and rural communities tell additional parts of the state’s story.",
+    "contextSources": [
+      {
+        "label": "National Park Service — SC",
+        "url": "https://www.nps.gov/state/sc/index.htm"
+      }
+    ]
+  },
+  {
+    "state": "SD",
+    "governor": {
+      "name": "Larry Rhoden",
+      "url": "https://www.sdsos.gov/elections-voting/election-resources/current-elected-officials.aspx"
+    },
+    "checked": "2026-11-09",
+    "name": "South Dakota",
+    "region": "Midwest",
+    "division": "West North Central",
+    "location": "South Dakota is in the northern Great Plains. The U.S. Census Bureau groups it in the Midwest region’s West North Central division.",
+    "geographySource": "https://www.census.gov/programs-surveys/economic-census/guidance-geographies/levels.html",
+    "senators": [
+      {
+        "role": "U.S. Senator",
+        "name": "Mike Rounds",
+        "url": "https://www.rounds.senate.gov",
+        "source": "https://www.senate.gov/senators/"
+      },
+      {
+        "role": "U.S. Senator",
+        "name": "John Thune",
+        "url": "https://www.thune.senate.gov/",
+        "source": "https://www.senate.gov/senators/"
+      }
+    ],
+    "description": "South Dakota spans the northern Great Plains, with the Missouri River forming an important geographic corridor. Sioux Falls, Rapid City and Pierre represent different parts of the state’s urban and regional landscape. In the west, the Black Hills and Badlands contrast with expanses of prairie farther east. Badlands National Park preserves striking eroded formations and fossil-bearing deposits, while Jewel Cave and Wind Cave reveal underground landscapes. Tribal homelands, agricultural communities and historic travel routes remain essential to understanding the state.",
+    "contextSources": [
+      {
+        "label": "National Park Service — SD",
+        "url": "https://www.nps.gov/state/sd/index.htm"
+      }
+    ]
+  },
+  {
+    "state": "TN",
+    "governor": {
+      "name": "Bill Lee",
+      "url": "https://www.tn.gov/governor/"
+    },
+    "checked": "2026-11-09",
+    "name": "Tennessee",
+    "region": "South",
+    "division": "East South Central",
+    "location": "Tennessee is in the southeastern United States. The U.S. Census Bureau groups it in the South region’s East South Central division.",
+    "geographySource": "https://www.census.gov/programs-surveys/economic-census/guidance-geographies/levels.html",
+    "senators": [
+      {
+        "role": "U.S. Senator",
+        "name": "Marsha Blackburn",
+        "url": "https://www.blackburn.senate.gov",
+        "source": "https://www.senate.gov/senators/"
+      },
+      {
+        "role": "U.S. Senator",
+        "name": "Bill Hagerty",
+        "url": "https://www.hagerty.senate.gov",
+        "source": "https://www.senate.gov/senators/"
+      }
+    ],
+    "description": "Tennessee extends across three broad regions: the Appalachian east, the central basin and plateaus, and the western lowlands approaching the Mississippi River. Knoxville and Chattanooga, Nashville, and Memphis help orient these regional differences. In the east, the Great Smoky Mountains and the Appalachian Trail connect the state with neighboring mountain landscapes. The Cumberland Plateau contains sandstone bluffs, gorges and river corridors such as Big South Fork. Historic sites and routes add context to Tennessee’s varied cities, smaller towns and rural communities.",
+    "contextSources": [
+      {
+        "label": "National Park Service — TN",
+        "url": "https://www.nps.gov/state/tn/index.htm"
+      }
+    ]
+  },
+  {
+    "state": "TX",
+    "governor": {
+      "name": "Greg Abbott",
+      "url": "https://gov.texas.gov/governor-abbott"
+    },
+    "checked": "2026-11-09",
+    "name": "Texas",
+    "region": "South",
+    "division": "West South Central",
+    "location": "Texas is in the south-central United States. The U.S. Census Bureau groups it in the South region’s West South Central division.",
+    "geographySource": "https://www.census.gov/programs-surveys/economic-census/guidance-geographies/levels.html",
+    "senators": [
+      {
+        "role": "U.S. Senator",
+        "name": "John Cornyn",
+        "url": "https://www.cornyn.senate.gov/",
+        "source": "https://www.senate.gov/senators/"
+      },
+      {
+        "role": "U.S. Senator",
+        "name": "Ted Cruz",
+        "url": "https://www.cruz.senate.gov",
+        "source": "https://www.senate.gov/senators/"
+      }
+    ],
+    "description": "Texas brings together Gulf Coast environments, eastern forests, central hills, northern plains and the desert landscapes of the far west. Houston, Dallas–Fort Worth, Austin, San Antonio and El Paso illustrate the distances and regional variety within the state. National park sites range from coastal Padre Island to the mountains and canyons of Big Bend and Guadalupe Mountains. The Rio Grande links border communities and protected landscapes, while historic trails and missions place Texas within a broader history of movement and cultural exchange.",
+    "contextSources": [
+      {
+        "label": "National Park Service — TX",
+        "url": "https://www.nps.gov/state/tx/index.htm"
+      }
+    ]
+  },
+  {
+    "state": "UT",
+    "governor": {
+      "name": "Spencer J. Cox",
+      "url": "https://www.utah.gov/government/"
+    },
+    "checked": "2026-11-09",
+    "name": "Utah",
+    "region": "West",
+    "division": "Mountain",
+    "location": "Utah is in the Intermountain West. The U.S. Census Bureau groups it in the West region’s Mountain division.",
+    "geographySource": "https://www.census.gov/programs-surveys/economic-census/guidance-geographies/levels.html",
+    "senators": [
+      {
+        "role": "U.S. Senator",
+        "name": "John R. Curtis",
+        "url": "https://www.curtis.senate.gov/",
+        "source": "https://www.senate.gov/senators/"
+      },
+      {
+        "role": "U.S. Senator",
+        "name": "Mike Lee",
+        "url": "https://www.lee.senate.gov/",
+        "source": "https://www.senate.gov/senators/"
+      }
+    ],
+    "description": "Utah lies in the interior West, where the Great Basin, Rocky Mountains and Colorado Plateau meet. Salt Lake City and other Wasatch Front communities form a major urban corridor, while southern and eastern Utah contain extensive canyon and desert landscapes. Arches near Moab, Bryce Canyon’s hoodoos and the cliffs of Zion show different expressions of the state’s geology. Mountain ranges, high plateaus, river canyons and historic overland routes connect these places with surrounding western states and long-standing Indigenous homelands.",
+    "contextSources": [
+      {
+        "label": "National Park Service — UT",
+        "url": "https://www.nps.gov/state/ut/index.htm"
+      }
+    ]
+  },
+  {
+    "state": "VT",
+    "governor": {
+      "name": "Phil Scott",
+      "url": "https://www.vermont.gov/government/statewide-officials"
+    },
+    "checked": "2026-11-09",
+    "name": "Vermont",
+    "region": "Northeast",
+    "division": "New England",
+    "location": "Vermont is in New England in the northeastern United States. The U.S. Census Bureau groups it in the Northeast region’s New England division.",
+    "geographySource": "https://www.census.gov/programs-surveys/economic-census/guidance-geographies/levels.html",
+    "senators": [
+      {
+        "role": "U.S. Senator",
+        "name": "Bernard Sanders",
+        "url": "https://www.sanders.senate.gov/",
+        "source": "https://www.senate.gov/senators/"
+      },
+      {
+        "role": "U.S. Senator",
+        "name": "Peter Welch",
+        "url": "https://www.welch.senate.gov/",
+        "source": "https://www.senate.gov/senators/"
+      }
+    ],
+    "description": "Vermont is a New England state shaped by the Green Mountains, wooded hills, agricultural valleys and the waters of Lake Champlain. Burlington and Montpelier provide urban and civic reference points within a landscape of smaller towns and rural communities. The Appalachian Trail crosses part of the state, linking its mountain terrain to a much longer eastern route. At Woodstock, Marsh–Billings–Rockefeller National Historical Park connects a working landscape with the history of conservation, forestry and stewardship in Vermont.",
+    "contextSources": [
+      {
+        "label": "National Park Service — VT",
+        "url": "https://www.nps.gov/state/vt/index.htm"
+      }
+    ]
+  },
+  {
+    "state": "VA",
+    "governor": {
+      "name": "Abigail Spanberger",
+      "url": "https://www.governor.virginia.gov/newsroom/public-schedule/"
+    },
+    "checked": "2026-11-09",
+    "name": "Virginia",
+    "region": "South",
+    "division": "South Atlantic",
+    "location": "Virginia is in the South Atlantic. The U.S. Census Bureau groups it in the South region’s South Atlantic division.",
+    "geographySource": "https://www.census.gov/programs-surveys/economic-census/guidance-geographies/levels.html",
+    "senators": [
+      {
+        "role": "U.S. Senator",
+        "name": "Tim Kaine",
+        "url": "https://www.kaine.senate.gov/",
+        "source": "https://www.senate.gov/senators/"
+      },
+      {
+        "role": "U.S. Senator",
+        "name": "Mark R. Warner",
+        "url": "https://www.warner.senate.gov",
+        "source": "https://www.senate.gov/senators/"
+      }
+    ],
+    "description": "Virginia extends from the Atlantic coast and Chesapeake Bay through the Piedmont to the Blue Ridge and Appalachian valleys. Richmond, the Hampton Roads cities, Northern Virginia and western communities occupy distinct geographic settings. Shenandoah National Park and the Appalachian Trail highlight the mountain landscape, while coastal and river sites trace settlement, trade and conflict. Virginia’s national parks preserve places associated with Indigenous communities, colonial history, the Revolution and the Civil War alongside forests, wetlands, scenic roads and outdoor recreation corridors.",
+    "contextSources": [
+      {
+        "label": "National Park Service — VA",
+        "url": "https://www.nps.gov/state/va/index.htm"
+      }
+    ]
+  },
+  {
+    "state": "WA",
+    "governor": {
+      "name": "Bob Ferguson",
+      "url": "https://clark.wa.gov/elections/state-offices"
+    },
+    "checked": "2026-11-09",
+    "name": "Washington",
+    "region": "West",
+    "division": "Pacific",
+    "location": "Washington is in the Pacific Northwest. The U.S. Census Bureau groups it in the West region’s Pacific division.",
+    "geographySource": "https://www.census.gov/programs-surveys/economic-census/guidance-geographies/levels.html",
+    "senators": [
+      {
+        "role": "U.S. Senator",
+        "name": "Maria Cantwell",
+        "url": "https://www.cantwell.senate.gov",
+        "source": "https://www.senate.gov/senators/"
+      },
+      {
+        "role": "U.S. Senator",
+        "name": "Patty Murray",
+        "url": "https://www.murray.senate.gov/",
+        "source": "https://www.senate.gov/senators/"
+      }
+    ],
+    "description": "Washington occupies the Pacific Northwest, with Pacific coastal communities, the Puget Sound region, mountain ranges, and a much drier interior east of the Cascades. The Cascade Mountains strongly influence this contrast: western Washington is generally wetter and milder, while eastern Washington has greater temperature extremes. Seattle is a major Puget Sound city, and the Columbia River shapes communities along the state's southern side. Olympic, Mount Rainier, and North Cascades national parks highlight its forests, alpine environments, glaciers, and volcanic landscape.",
+    "contextSources": [
+      {
+        "label": "Washington State Climate Office",
+        "url": "https://climate.uw.edu/washingtons-climate/"
+      },
+      {
+        "label": "National Park Service: Washington",
+        "url": "https://www.nps.gov/state/wa/index.htm"
+      }
+    ]
+  },
+  {
+    "state": "WV",
+    "governor": {
+      "name": "Patrick Morrisey",
+      "url": "https://governor.wv.gov/"
+    },
+    "checked": "2026-11-09",
+    "name": "West Virginia",
+    "region": "South",
+    "division": "South Atlantic",
+    "location": "West Virginia is in the Appalachian South. The U.S. Census Bureau groups it in the South region’s South Atlantic division.",
+    "geographySource": "https://www.census.gov/programs-surveys/economic-census/guidance-geographies/levels.html",
+    "senators": [
+      {
+        "role": "U.S. Senator",
+        "name": "Shelley Moore Capito",
+        "url": "https://www.capito.senate.gov",
+        "source": "https://www.senate.gov/senators/"
+      },
+      {
+        "role": "U.S. Senator",
+        "name": "James C. Justice",
+        "url": "https://www.justice.senate.gov/",
+        "source": "https://www.senate.gov/senators/"
+      }
+    ],
+    "description": "West Virginia lies within the Appalachian Mountains, where forested ridges, river valleys and winding transport corridors shape settlement. Charleston, Huntington, Morgantown and other communities occupy different parts of this mountain landscape. New River Gorge, the Gauley River and the Bluestone River preserve dramatic river environments and opportunities for outdoor recreation. At Harpers Ferry, the Potomac and Shenandoah rivers meet in a setting connected with transportation, industry and national history. These places sit within a wider landscape of smaller towns and rural communities.",
+    "contextSources": [
+      {
+        "label": "National Park Service — WV",
+        "url": "https://www.nps.gov/state/wv/index.htm"
+      }
+    ]
+  },
+  {
+    "state": "WI",
+    "governor": {
+      "name": "Tony Evers",
+      "url": "https://evers.wi.gov/Pages/About/About_Tony.aspx"
+    },
+    "checked": "2026-11-09",
+    "name": "Wisconsin",
+    "region": "Midwest",
+    "division": "East North Central",
+    "location": "Wisconsin is in the Upper Midwest. The U.S. Census Bureau groups it in the Midwest region’s East North Central division.",
+    "geographySource": "https://www.census.gov/programs-surveys/economic-census/guidance-geographies/levels.html",
+    "senators": [
+      {
+        "role": "U.S. Senator",
+        "name": "Tammy Baldwin",
+        "url": "https://www.baldwin.senate.gov/",
+        "source": "https://www.senate.gov/senators/"
+      },
+      {
+        "role": "U.S. Senator",
+        "name": "Ron Johnson",
+        "url": "https://www.ronjohnson.senate.gov/",
+        "source": "https://www.senate.gov/senators/"
+      }
+    ],
+    "description": "Wisconsin lies between the Great Lakes and the upper Mississippi River region, with landscapes shaped in many places by glaciers. Milwaukee, Madison and Green Bay are important urban reference points, while farms, forests and smaller communities extend across the state. The Apostle Islands along Lake Superior preserve islands, shorelines, sea caves and maritime history. The Ice Age National Scenic Trail traces glacial landforms across Wisconsin, and the Saint Croix river corridor adds another distinctive setting along the state’s western side.",
+    "contextSources": [
+      {
+        "label": "National Park Service — WI",
+        "url": "https://www.nps.gov/state/wi/index.htm"
+      }
+    ]
+  },
+  {
+    "state": "WY",
+    "governor": {
+      "name": "Mark Gordon",
+      "url": "https://wyoleg.gov/2026/Veto/StrategicInvestmentsProjectsAccountRepealVeto.pdf"
+    },
+    "checked": "2026-11-09",
+    "name": "Wyoming",
+    "region": "West",
+    "division": "Mountain",
+    "location": "Wyoming is in the Rocky Mountain West. The U.S. Census Bureau groups it in the West region’s Mountain division.",
+    "geographySource": "https://www.census.gov/programs-surveys/economic-census/guidance-geographies/levels.html",
+    "senators": [
+      {
+        "role": "U.S. Senator",
+        "name": "John Barrasso",
+        "url": "https://www.barrasso.senate.gov",
+        "source": "https://www.senate.gov/senators/"
+      },
+      {
+        "role": "U.S. Senator",
+        "name": "Cynthia M. Lummis",
+        "url": "https://www.lummis.senate.gov",
+        "source": "https://www.senate.gov/senators/"
+      }
+    ],
+    "description": "Wyoming occupies the interior West, combining high plains, mountain ranges and broad basins. Cheyenne, Casper, Laramie and communities around Jackson illustrate different regional settings. Yellowstone and Grand Teton preserve renowned mountain, wildlife and geothermal landscapes in the northwest, while Devils Tower rises above the northeastern plains. Bighorn Canyon adds another dramatic river setting. Historic overland trails and Fort Laramie connect Wyoming’s geography with long-distance travel and settlement, alongside the deeper history of Indigenous peoples across the region.",
+    "contextSources": [
+      {
+        "label": "National Park Service — WY",
+        "url": "https://www.nps.gov/state/wy/index.htm"
+      }
+    ]
+  }
+]

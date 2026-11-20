@@ -1,0 +1,3890 @@
+{
+  "source": "https://clerk.house.gov/xml/lists/MemberData.xml",
+  "published": "November 3, 2026",
+  "congress": "119",
+  "checked": "2026-11-09",
+  "states": {
+    "AL": [
+      {
+        "district": "1st",
+        "districtCode": "AL01",
+        "name": "Barry Moore",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/M001212",
+        "note": ""
+      },
+      {
+        "district": "2nd",
+        "districtCode": "AL02",
+        "name": "Shomari Figures",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/F000481",
+        "note": ""
+      },
+      {
+        "district": "3rd",
+        "districtCode": "AL03",
+        "name": "Mike Rogers",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/R000575",
+        "note": ""
+      },
+      {
+        "district": "4th",
+        "districtCode": "AL04",
+        "name": "Robert B. Aderholt",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/A000055",
+        "note": ""
+      },
+      {
+        "district": "5th",
+        "districtCode": "AL05",
+        "name": "Dale W. Strong",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/S001220",
+        "note": ""
+      },
+      {
+        "district": "6th",
+        "districtCode": "AL06",
+        "name": "Gary J. Palmer",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/P000609",
+        "note": ""
+      },
+      {
+        "district": "7th",
+        "districtCode": "AL07",
+        "name": "Terri A. Sewell",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/S001185",
+        "note": ""
+      }
+    ],
+    "AK": [
+      {
+        "district": "At Large",
+        "districtCode": "AK00",
+        "name": "Nicholas J. Begich III",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/B001323",
+        "note": ""
+      }
+    ],
+    "AZ": [
+      {
+        "district": "1st",
+        "districtCode": "AZ01",
+        "name": "David Schweikert",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/S001183",
+        "note": ""
+      },
+      {
+        "district": "2nd",
+        "districtCode": "AZ02",
+        "name": "Elijah Crane",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/C001132",
+        "note": ""
+      },
+      {
+        "district": "3rd",
+        "districtCode": "AZ03",
+        "name": "Yassamin Ansari",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/A000381",
+        "note": ""
+      },
+      {
+        "district": "4th",
+        "districtCode": "AZ04",
+        "name": "Greg Stanton",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/S001211",
+        "note": ""
+      },
+      {
+        "district": "5th",
+        "districtCode": "AZ05",
+        "name": "Andy Biggs",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/B001302",
+        "note": ""
+      },
+      {
+        "district": "6th",
+        "districtCode": "AZ06",
+        "name": "Juan Ciscomani",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/C001133",
+        "note": ""
+      },
+      {
+        "district": "7th",
+        "districtCode": "AZ07",
+        "name": "Adelita S. Grijalva",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/G000606",
+        "note": ""
+      },
+      {
+        "district": "8th",
+        "districtCode": "AZ08",
+        "name": "Abraham J. Hamadeh",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/H001098",
+        "note": ""
+      },
+      {
+        "district": "9th",
+        "districtCode": "AZ09",
+        "name": "Paul A. Gosar",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/G000565",
+        "note": ""
+      }
+    ],
+    "AR": [
+      {
+        "district": "1st",
+        "districtCode": "AR01",
+        "name": "Eric A. \"Rick\" Crawford",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/C001087",
+        "note": ""
+      },
+      {
+        "district": "2nd",
+        "districtCode": "AR02",
+        "name": "J. French Hill",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/H001072",
+        "note": ""
+      },
+      {
+        "district": "3rd",
+        "districtCode": "AR03",
+        "name": "Steve Womack",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/W000809",
+        "note": ""
+      },
+      {
+        "district": "4th",
+        "districtCode": "AR04",
+        "name": "Bruce Westerman",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/W000821",
+        "note": ""
+      }
+    ],
+    "CA": [
+      {
+        "district": "1st",
+        "districtCode": "CA01",
+        "name": "James Gallagher",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/G000607",
+        "note": ""
+      },
+      {
+        "district": "2nd",
+        "districtCode": "CA02",
+        "name": "Jared Huffman",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/H001068",
+        "note": ""
+      },
+      {
+        "district": "3rd",
+        "districtCode": "CA03",
+        "name": "Kevin Kiley",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/K000401",
+        "note": ""
+      },
+      {
+        "district": "4th",
+        "districtCode": "CA04",
+        "name": "Mike Thompson",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/T000460",
+        "note": ""
+      },
+      {
+        "district": "5th",
+        "districtCode": "CA05",
+        "name": "Tom McClintock",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/M001177",
+        "note": ""
+      },
+      {
+        "district": "6th",
+        "districtCode": "CA06",
+        "name": "Ami Bera",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/B001287",
+        "note": ""
+      },
+      {
+        "district": "7th",
+        "districtCode": "CA07",
+        "name": "Doris O. Matsui",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/M001163",
+        "note": ""
+      },
+      {
+        "district": "8th",
+        "districtCode": "CA08",
+        "name": "John Garamendi",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/G000559",
+        "note": ""
+      },
+      {
+        "district": "9th",
+        "districtCode": "CA09",
+        "name": "Josh Harder",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/H001090",
+        "note": ""
+      },
+      {
+        "district": "10th",
+        "districtCode": "CA10",
+        "name": "Mark DeSaulnier",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/D000623",
+        "note": ""
+      },
+      {
+        "district": "11th",
+        "districtCode": "CA11",
+        "name": "Nancy Pelosi",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/P000197",
+        "note": ""
+      },
+      {
+        "district": "12th",
+        "districtCode": "CA12",
+        "name": "Lateefah Simon",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/S001231",
+        "note": ""
+      },
+      {
+        "district": "13th",
+        "districtCode": "CA13",
+        "name": "Adam Gray",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/G000605",
+        "note": ""
+      },
+      {
+        "district": "14th",
+        "districtCode": "CA14",
+        "name": "Aisha Wahab",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/W000832",
+        "note": ""
+      },
+      {
+        "district": "15th",
+        "districtCode": "CA15",
+        "name": "Kevin Mullin",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/M001225",
+        "note": ""
+      },
+      {
+        "district": "16th",
+        "districtCode": "CA16",
+        "name": "Sam T. Liccardo",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/L000607",
+        "note": ""
+      },
+      {
+        "district": "17th",
+        "districtCode": "CA17",
+        "name": "Ro Khanna",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/K000389",
+        "note": ""
+      },
+      {
+        "district": "18th",
+        "districtCode": "CA18",
+        "name": "Zoe Lofgren",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/L000397",
+        "note": ""
+      },
+      {
+        "district": "19th",
+        "districtCode": "CA19",
+        "name": "Jimmy Panetta",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/P000613",
+        "note": ""
+      },
+      {
+        "district": "20th",
+        "districtCode": "CA20",
+        "name": "Vince Fong",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/F000480",
+        "note": ""
+      },
+      {
+        "district": "21st",
+        "districtCode": "CA21",
+        "name": "Jim Costa",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/C001059",
+        "note": ""
+      },
+      {
+        "district": "22nd",
+        "districtCode": "CA22",
+        "name": "David G. Valadao",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/V000129",
+        "note": ""
+      },
+      {
+        "district": "23rd",
+        "districtCode": "CA23",
+        "name": "Jay Obernolte",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/O000019",
+        "note": ""
+      },
+      {
+        "district": "24th",
+        "districtCode": "CA24",
+        "name": "Salud O. Carbajal",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/C001112",
+        "note": ""
+      },
+      {
+        "district": "25th",
+        "districtCode": "CA25",
+        "name": "Raul Ruiz",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/R000599",
+        "note": ""
+      },
+      {
+        "district": "26th",
+        "districtCode": "CA26",
+        "name": "Julia Brownley",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/B001285",
+        "note": ""
+      },
+      {
+        "district": "27th",
+        "districtCode": "CA27",
+        "name": "George Whitesides",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/W000830",
+        "note": ""
+      },
+      {
+        "district": "28th",
+        "districtCode": "CA28",
+        "name": "Judy Chu",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/C001080",
+        "note": ""
+      },
+      {
+        "district": "29th",
+        "districtCode": "CA29",
+        "name": "Luz M. Rivas",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/R000620",
+        "note": ""
+      },
+      {
+        "district": "30th",
+        "districtCode": "CA30",
+        "name": "Laura Friedman",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/F000483",
+        "note": ""
+      },
+      {
+        "district": "31st",
+        "districtCode": "CA31",
+        "name": "Gilbert Ray Cisneros, Jr.",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/C001123",
+        "note": ""
+      },
+      {
+        "district": "32nd",
+        "districtCode": "CA32",
+        "name": "Brad Sherman",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/S000344",
+        "note": ""
+      },
+      {
+        "district": "33rd",
+        "districtCode": "CA33",
+        "name": "Pete Aguilar",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/A000371",
+        "note": ""
+      },
+      {
+        "district": "34th",
+        "districtCode": "CA34",
+        "name": "Jimmy Gomez",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/G000585",
+        "note": ""
+      },
+      {
+        "district": "35th",
+        "districtCode": "CA35",
+        "name": "Norma J. Torres",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/T000474",
+        "note": ""
+      },
+      {
+        "district": "36th",
+        "districtCode": "CA36",
+        "name": "Ted Lieu",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/L000582",
+        "note": ""
+      },
+      {
+        "district": "37th",
+        "districtCode": "CA37",
+        "name": "Sydney Kamlager-Dove",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/K000400",
+        "note": ""
+      },
+      {
+        "district": "38th",
+        "districtCode": "CA38",
+        "name": "Linda T. Sánchez",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/S001156",
+        "note": ""
+      },
+      {
+        "district": "39th",
+        "districtCode": "CA39",
+        "name": "Mark Takano",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/T000472",
+        "note": ""
+      },
+      {
+        "district": "40th",
+        "districtCode": "CA40",
+        "name": "Young Kim",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/K000397",
+        "note": ""
+      },
+      {
+        "district": "41st",
+        "districtCode": "CA41",
+        "name": "Ken Calvert",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/C000059",
+        "note": ""
+      },
+      {
+        "district": "42nd",
+        "districtCode": "CA42",
+        "name": "Robert Garcia",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/G000598",
+        "note": ""
+      },
+      {
+        "district": "43rd",
+        "districtCode": "CA43",
+        "name": "Maxine Waters",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/W000187",
+        "note": ""
+      },
+      {
+        "district": "44th",
+        "districtCode": "CA44",
+        "name": "Nanette Diaz Barragán",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/B001300",
+        "note": ""
+      },
+      {
+        "district": "45th",
+        "districtCode": "CA45",
+        "name": "Derek Tran",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/T000491",
+        "note": ""
+      },
+      {
+        "district": "46th",
+        "districtCode": "CA46",
+        "name": "J. Luis Correa",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/C001110",
+        "note": ""
+      },
+      {
+        "district": "47th",
+        "districtCode": "CA47",
+        "name": "Dave Min",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/M001241",
+        "note": ""
+      },
+      {
+        "district": "48th",
+        "districtCode": "CA48",
+        "name": "Darrell Issa",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/I000056",
+        "note": ""
+      },
+      {
+        "district": "49th",
+        "districtCode": "CA49",
+        "name": "Mike Levin",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/L000593",
+        "note": ""
+      },
+      {
+        "district": "50th",
+        "districtCode": "CA50",
+        "name": "Scott H. Peters",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/P000608",
+        "note": ""
+      },
+      {
+        "district": "51st",
+        "districtCode": "CA51",
+        "name": "Sara Jacobs",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/J000305",
+        "note": ""
+      },
+      {
+        "district": "52nd",
+        "districtCode": "CA52",
+        "name": "Juan Vargas",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/V000130",
+        "note": ""
+      }
+    ],
+    "CO": [
+      {
+        "district": "1st",
+        "districtCode": "CO01",
+        "name": "Diana DeGette",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/D000197",
+        "note": ""
+      },
+      {
+        "district": "2nd",
+        "districtCode": "CO02",
+        "name": "Joe Neguse",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/N000191",
+        "note": ""
+      },
+      {
+        "district": "3rd",
+        "districtCode": "CO03",
+        "name": "Jeff Hurd",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/H001100",
+        "note": ""
+      },
+      {
+        "district": "4th",
+        "districtCode": "CO04",
+        "name": "Lauren Boebert",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/B000825",
+        "note": ""
+      },
+      {
+        "district": "5th",
+        "districtCode": "CO05",
+        "name": "Jeff Crank",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/C001137",
+        "note": ""
+      },
+      {
+        "district": "6th",
+        "districtCode": "CO06",
+        "name": "Jason Crow",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/C001121",
+        "note": ""
+      },
+      {
+        "district": "7th",
+        "districtCode": "CO07",
+        "name": "Brittany Pettersen",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/P000620",
+        "note": ""
+      },
+      {
+        "district": "8th",
+        "districtCode": "CO08",
+        "name": "Gabe Evans",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/E000300",
+        "note": ""
+      }
+    ],
+    "CT": [
+      {
+        "district": "1st",
+        "districtCode": "CT01",
+        "name": "John B. Larson",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/L000557",
+        "note": ""
+      },
+      {
+        "district": "2nd",
+        "districtCode": "CT02",
+        "name": "Joe Courtney",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/C001069",
+        "note": ""
+      },
+      {
+        "district": "3rd",
+        "districtCode": "CT03",
+        "name": "Rosa L. DeLauro",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/D000216",
+        "note": ""
+      },
+      {
+        "district": "4th",
+        "districtCode": "CT04",
+        "name": "James A. Himes",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/H001047",
+        "note": ""
+      },
+      {
+        "district": "5th",
+        "districtCode": "CT05",
+        "name": "Jahana Hayes",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/H001081",
+        "note": ""
+      }
+    ],
+    "DE": [
+      {
+        "district": "At Large",
+        "districtCode": "DE00",
+        "name": "Sarah McBride",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/M001238",
+        "note": ""
+      }
+    ],
+    "FL": [
+      {
+        "district": "1st",
+        "districtCode": "FL01",
+        "name": "Jimmy Patronis",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/P000622",
+        "note": ""
+      },
+      {
+        "district": "2nd",
+        "districtCode": "FL02",
+        "name": "Neal P. Dunn",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/D000628",
+        "note": ""
+      },
+      {
+        "district": "3rd",
+        "districtCode": "FL03",
+        "name": "Kat Cammack",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/C001039",
+        "note": ""
+      },
+      {
+        "district": "4th",
+        "districtCode": "FL04",
+        "name": "Aaron Bean",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/B001314",
+        "note": ""
+      },
+      {
+        "district": "5th",
+        "districtCode": "FL05",
+        "name": "John H. Rutherford",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/R000609",
+        "note": ""
+      },
+      {
+        "district": "6th",
+        "districtCode": "FL06",
+        "name": "Randy Fine",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/F000484",
+        "note": ""
+      },
+      {
+        "district": "7th",
+        "districtCode": "FL07",
+        "name": "Cory Mills",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/M001216",
+        "note": ""
+      },
+      {
+        "district": "8th",
+        "districtCode": "FL08",
+        "name": "Mike Haridopolos",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/H001099",
+        "note": ""
+      },
+      {
+        "district": "9th",
+        "districtCode": "FL09",
+        "name": "Darren Soto",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/S001200",
+        "note": ""
+      },
+      {
+        "district": "10th",
+        "districtCode": "FL10",
+        "name": "Maxwell Frost",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/F000476",
+        "note": ""
+      },
+      {
+        "district": "11th",
+        "districtCode": "FL11",
+        "name": "Daniel Webster",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/W000806",
+        "note": ""
+      },
+      {
+        "district": "12th",
+        "districtCode": "FL12",
+        "name": "Gus M. Bilirakis",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/B001257",
+        "note": ""
+      },
+      {
+        "district": "13th",
+        "districtCode": "FL13",
+        "name": "Anna Paulina Luna",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/L000596",
+        "note": ""
+      },
+      {
+        "district": "14th",
+        "districtCode": "FL14",
+        "name": "Kathy Castor",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/C001066",
+        "note": ""
+      },
+      {
+        "district": "15th",
+        "districtCode": "FL15",
+        "name": "Laurel M. Lee",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/L000597",
+        "note": ""
+      },
+      {
+        "district": "16th",
+        "districtCode": "FL16",
+        "name": "Vern Buchanan",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/B001260",
+        "note": ""
+      },
+      {
+        "district": "17th",
+        "districtCode": "FL17",
+        "name": "W. Gregory Steube",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/S001214",
+        "note": ""
+      },
+      {
+        "district": "18th",
+        "districtCode": "FL18",
+        "name": "Scott Franklin",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/F000472",
+        "note": ""
+      },
+      {
+        "district": "19th",
+        "districtCode": "FL19",
+        "name": "Byron Donalds",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/D000032",
+        "note": ""
+      },
+      {
+        "district": "20th",
+        "districtCode": "FL20",
+        "name": "Vacant seat",
+        "vacant": true,
+        "url": "https://clerk.house.gov/Members/ViewMemberList",
+        "note": "Vacancy due to the resignation of Sheila Cherfilus-McCormick, April 21, 2026."
+      },
+      {
+        "district": "21st",
+        "districtCode": "FL21",
+        "name": "Brian J. Mast",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/M001199",
+        "note": ""
+      },
+      {
+        "district": "22nd",
+        "districtCode": "FL22",
+        "name": "Lois Frankel",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/F000462",
+        "note": ""
+      },
+      {
+        "district": "23rd",
+        "districtCode": "FL23",
+        "name": "Jared Moskowitz",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/M001217",
+        "note": ""
+      },
+      {
+        "district": "24th",
+        "districtCode": "FL24",
+        "name": "Frederica S. Wilson",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/W000808",
+        "note": ""
+      },
+      {
+        "district": "25th",
+        "districtCode": "FL25",
+        "name": "Debbie Wasserman Schultz",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/W000797",
+        "note": ""
+      },
+      {
+        "district": "26th",
+        "districtCode": "FL26",
+        "name": "Mario Diaz-Balart",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/D000600",
+        "note": ""
+      },
+      {
+        "district": "27th",
+        "districtCode": "FL27",
+        "name": "Maria Elvira Salazar",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/S000168",
+        "note": ""
+      },
+      {
+        "district": "28th",
+        "districtCode": "FL28",
+        "name": "Carlos A. Gimenez",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/G000593",
+        "note": ""
+      }
+    ],
+    "GA": [
+      {
+        "district": "1st",
+        "districtCode": "GA01",
+        "name": "Earl L. \"Buddy\" Carter",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/C001103",
+        "note": ""
+      },
+      {
+        "district": "2nd",
+        "districtCode": "GA02",
+        "name": "Sanford D. Bishop, Jr.",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/B000490",
+        "note": ""
+      },
+      {
+        "district": "3rd",
+        "districtCode": "GA03",
+        "name": "Brian Jack",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/J000311",
+        "note": ""
+      },
+      {
+        "district": "4th",
+        "districtCode": "GA04",
+        "name": "Henry C. \"Hank\" Johnson, Jr.",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/J000288",
+        "note": ""
+      },
+      {
+        "district": "5th",
+        "districtCode": "GA05",
+        "name": "Nikema Williams",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/W000788",
+        "note": ""
+      },
+      {
+        "district": "6th",
+        "districtCode": "GA06",
+        "name": "Lucy McBath",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/M001208",
+        "note": ""
+      },
+      {
+        "district": "7th",
+        "districtCode": "GA07",
+        "name": "Richard McCormick",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/M001218",
+        "note": ""
+      },
+      {
+        "district": "8th",
+        "districtCode": "GA08",
+        "name": "Austin Scott",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/S001189",
+        "note": ""
+      },
+      {
+        "district": "9th",
+        "districtCode": "GA09",
+        "name": "Andrew S. Clyde",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/C001116",
+        "note": ""
+      },
+      {
+        "district": "10th",
+        "districtCode": "GA10",
+        "name": "Mike Collins",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/C001129",
+        "note": ""
+      },
+      {
+        "district": "11th",
+        "districtCode": "GA11",
+        "name": "Barry Loudermilk",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/L000583",
+        "note": ""
+      },
+      {
+        "district": "12th",
+        "districtCode": "GA12",
+        "name": "Rick W. Allen",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/A000372",
+        "note": ""
+      },
+      {
+        "district": "13th",
+        "districtCode": "GA13",
+        "name": "Everton Blair Jr.",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/B001328",
+        "note": ""
+      },
+      {
+        "district": "14th",
+        "districtCode": "GA14",
+        "name": "Clay Fuller",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/F000485",
+        "note": ""
+      }
+    ],
+    "HI": [
+      {
+        "district": "1st",
+        "districtCode": "HI01",
+        "name": "Ed Case",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/C001055",
+        "note": ""
+      },
+      {
+        "district": "2nd",
+        "districtCode": "HI02",
+        "name": "Jill N. Tokuda",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/T000487",
+        "note": ""
+      }
+    ],
+    "ID": [
+      {
+        "district": "1st",
+        "districtCode": "ID01",
+        "name": "Russ Fulcher",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/F000469",
+        "note": ""
+      },
+      {
+        "district": "2nd",
+        "districtCode": "ID02",
+        "name": "Michael K. Simpson",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/S001148",
+        "note": ""
+      }
+    ],
+    "IL": [
+      {
+        "district": "1st",
+        "districtCode": "IL01",
+        "name": "Jonathan L. Jackson",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/J000309",
+        "note": ""
+      },
+      {
+        "district": "2nd",
+        "districtCode": "IL02",
+        "name": "Robin L. Kelly",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/K000385",
+        "note": ""
+      },
+      {
+        "district": "3rd",
+        "districtCode": "IL03",
+        "name": "Delia C. Ramirez",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/R000617",
+        "note": ""
+      },
+      {
+        "district": "4th",
+        "districtCode": "IL04",
+        "name": "Jesús G. \"Chuy\" García",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/G000586",
+        "note": ""
+      },
+      {
+        "district": "5th",
+        "districtCode": "IL05",
+        "name": "Mike Quigley",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/Q000023",
+        "note": ""
+      },
+      {
+        "district": "6th",
+        "districtCode": "IL06",
+        "name": "Sean Casten",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/C001117",
+        "note": ""
+      },
+      {
+        "district": "7th",
+        "districtCode": "IL07",
+        "name": "Danny K. Davis",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/D000096",
+        "note": ""
+      },
+      {
+        "district": "8th",
+        "districtCode": "IL08",
+        "name": "Raja Krishnamoorthi",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/K000391",
+        "note": ""
+      },
+      {
+        "district": "9th",
+        "districtCode": "IL09",
+        "name": "Janice D. Schakowsky",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/S001145",
+        "note": ""
+      },
+      {
+        "district": "10th",
+        "districtCode": "IL10",
+        "name": "Bradley Scott Schneider",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/S001190",
+        "note": ""
+      },
+      {
+        "district": "11th",
+        "districtCode": "IL11",
+        "name": "Bill Foster",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/F000454",
+        "note": ""
+      },
+      {
+        "district": "12th",
+        "districtCode": "IL12",
+        "name": "Mike Bost",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/B001295",
+        "note": ""
+      },
+      {
+        "district": "13th",
+        "districtCode": "IL13",
+        "name": "Nikki Budzinski",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/B001315",
+        "note": ""
+      },
+      {
+        "district": "14th",
+        "districtCode": "IL14",
+        "name": "Lauren Underwood",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/U000040",
+        "note": ""
+      },
+      {
+        "district": "15th",
+        "districtCode": "IL15",
+        "name": "Mary E. Miller",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/M001211",
+        "note": ""
+      },
+      {
+        "district": "16th",
+        "districtCode": "IL16",
+        "name": "Darin LaHood",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/L000585",
+        "note": ""
+      },
+      {
+        "district": "17th",
+        "districtCode": "IL17",
+        "name": "Eric Sorensen",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/S001225",
+        "note": ""
+      }
+    ],
+    "IN": [
+      {
+        "district": "1st",
+        "districtCode": "IN01",
+        "name": "Frank J. Mrvan",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/M001214",
+        "note": ""
+      },
+      {
+        "district": "2nd",
+        "districtCode": "IN02",
+        "name": "Rudy Yakym III",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/Y000067",
+        "note": ""
+      },
+      {
+        "district": "3rd",
+        "districtCode": "IN03",
+        "name": "Marlin A. Stutzman",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/S001188",
+        "note": ""
+      },
+      {
+        "district": "4th",
+        "districtCode": "IN04",
+        "name": "James R. Baird",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/B001307",
+        "note": ""
+      },
+      {
+        "district": "5th",
+        "districtCode": "IN05",
+        "name": "Victoria Spartz",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/S000929",
+        "note": ""
+      },
+      {
+        "district": "6th",
+        "districtCode": "IN06",
+        "name": "Jefferson Shreve",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/S001229",
+        "note": ""
+      },
+      {
+        "district": "7th",
+        "districtCode": "IN07",
+        "name": "André Carson",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/C001072",
+        "note": ""
+      },
+      {
+        "district": "8th",
+        "districtCode": "IN08",
+        "name": "Mark B. Messmer",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/M001233",
+        "note": ""
+      },
+      {
+        "district": "9th",
+        "districtCode": "IN09",
+        "name": "Erin Houchin",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/H001093",
+        "note": ""
+      }
+    ],
+    "IA": [
+      {
+        "district": "1st",
+        "districtCode": "IA01",
+        "name": "Mariannette Miller-Meeks",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/M001215",
+        "note": ""
+      },
+      {
+        "district": "2nd",
+        "districtCode": "IA02",
+        "name": "Ashley Hinson",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/H001091",
+        "note": ""
+      },
+      {
+        "district": "3rd",
+        "districtCode": "IA03",
+        "name": "Zachary Nunn",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/N000193",
+        "note": ""
+      },
+      {
+        "district": "4th",
+        "districtCode": "IA04",
+        "name": "Randy Feenstra",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/F000446",
+        "note": ""
+      }
+    ],
+    "KS": [
+      {
+        "district": "1st",
+        "districtCode": "KS01",
+        "name": "Tracey Mann",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/M000871",
+        "note": ""
+      },
+      {
+        "district": "2nd",
+        "districtCode": "KS02",
+        "name": "Derek Schmidt",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/S001228",
+        "note": ""
+      },
+      {
+        "district": "3rd",
+        "districtCode": "KS03",
+        "name": "Sharice Davids",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/D000629",
+        "note": ""
+      },
+      {
+        "district": "4th",
+        "districtCode": "KS04",
+        "name": "Ron Estes",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/E000298",
+        "note": ""
+      }
+    ],
+    "KY": [
+      {
+        "district": "1st",
+        "districtCode": "KY01",
+        "name": "James Comer",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/C001108",
+        "note": ""
+      },
+      {
+        "district": "2nd",
+        "districtCode": "KY02",
+        "name": "Brett Guthrie",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/G000558",
+        "note": ""
+      },
+      {
+        "district": "3rd",
+        "districtCode": "KY03",
+        "name": "Morgan McGarvey",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/M001220",
+        "note": ""
+      },
+      {
+        "district": "4th",
+        "districtCode": "KY04",
+        "name": "Thomas Massie",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/M001184",
+        "note": ""
+      },
+      {
+        "district": "5th",
+        "districtCode": "KY05",
+        "name": "Harold Rogers",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/R000395",
+        "note": ""
+      },
+      {
+        "district": "6th",
+        "districtCode": "KY06",
+        "name": "Andy Barr",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/B001282",
+        "note": ""
+      }
+    ],
+    "LA": [
+      {
+        "district": "1st",
+        "districtCode": "LA01",
+        "name": "Steve Scalise",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/S001176",
+        "note": ""
+      },
+      {
+        "district": "2nd",
+        "districtCode": "LA02",
+        "name": "Troy A. Carter",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/C001125",
+        "note": ""
+      },
+      {
+        "district": "3rd",
+        "districtCode": "LA03",
+        "name": "Clay Higgins",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/H001077",
+        "note": ""
+      },
+      {
+        "district": "4th",
+        "districtCode": "LA04",
+        "name": "Mike Johnson",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/J000299",
+        "note": ""
+      },
+      {
+        "district": "5th",
+        "districtCode": "LA05",
+        "name": "Julia Letlow",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/L000595",
+        "note": ""
+      },
+      {
+        "district": "6th",
+        "districtCode": "LA06",
+        "name": "Cleo Fields",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/F000110",
+        "note": ""
+      }
+    ],
+    "ME": [
+      {
+        "district": "1st",
+        "districtCode": "ME01",
+        "name": "Chellie Pingree",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/P000597",
+        "note": ""
+      },
+      {
+        "district": "2nd",
+        "districtCode": "ME02",
+        "name": "Jared F. Golden",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/G000592",
+        "note": ""
+      }
+    ],
+    "MD": [
+      {
+        "district": "1st",
+        "districtCode": "MD01",
+        "name": "Andy Harris",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/H001052",
+        "note": ""
+      },
+      {
+        "district": "2nd",
+        "districtCode": "MD02",
+        "name": "Johnny Olszewski, Jr.",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/O000176",
+        "note": ""
+      },
+      {
+        "district": "3rd",
+        "districtCode": "MD03",
+        "name": "Sarah Elfreth",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/E000301",
+        "note": ""
+      },
+      {
+        "district": "4th",
+        "districtCode": "MD04",
+        "name": "Glenn Ivey",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/I000058",
+        "note": ""
+      },
+      {
+        "district": "5th",
+        "districtCode": "MD05",
+        "name": "Steny H. Hoyer",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/H000874",
+        "note": ""
+      },
+      {
+        "district": "6th",
+        "districtCode": "MD06",
+        "name": "April McClain Delaney",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/M001232",
+        "note": ""
+      },
+      {
+        "district": "7th",
+        "districtCode": "MD07",
+        "name": "Kweisi Mfume",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/M000687",
+        "note": ""
+      },
+      {
+        "district": "8th",
+        "districtCode": "MD08",
+        "name": "Jamie Raskin",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/R000606",
+        "note": ""
+      }
+    ],
+    "MA": [
+      {
+        "district": "1st",
+        "districtCode": "MA01",
+        "name": "Richard E. Neal",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/N000015",
+        "note": ""
+      },
+      {
+        "district": "2nd",
+        "districtCode": "MA02",
+        "name": "James P. McGovern",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/M000312",
+        "note": ""
+      },
+      {
+        "district": "3rd",
+        "districtCode": "MA03",
+        "name": "Lori Trahan",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/T000482",
+        "note": ""
+      },
+      {
+        "district": "4th",
+        "districtCode": "MA04",
+        "name": "Jake Auchincloss",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/A000148",
+        "note": ""
+      },
+      {
+        "district": "5th",
+        "districtCode": "MA05",
+        "name": "Katherine M. Clark",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/C001101",
+        "note": ""
+      },
+      {
+        "district": "6th",
+        "districtCode": "MA06",
+        "name": "Seth Moulton",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/M001196",
+        "note": ""
+      },
+      {
+        "district": "7th",
+        "districtCode": "MA07",
+        "name": "Ayanna Pressley",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/P000617",
+        "note": ""
+      },
+      {
+        "district": "8th",
+        "districtCode": "MA08",
+        "name": "Stephen F. Lynch",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/L000562",
+        "note": ""
+      },
+      {
+        "district": "9th",
+        "districtCode": "MA09",
+        "name": "William R. Keating",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/K000375",
+        "note": ""
+      }
+    ],
+    "MI": [
+      {
+        "district": "1st",
+        "districtCode": "MI01",
+        "name": "Jack Bergman",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/B001301",
+        "note": ""
+      },
+      {
+        "district": "2nd",
+        "districtCode": "MI02",
+        "name": "John R. Moolenaar",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/M001194",
+        "note": ""
+      },
+      {
+        "district": "3rd",
+        "districtCode": "MI03",
+        "name": "Hillary J. Scholten",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/S001221",
+        "note": ""
+      },
+      {
+        "district": "4th",
+        "districtCode": "MI04",
+        "name": "Bill Huizenga",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/H001058",
+        "note": ""
+      },
+      {
+        "district": "5th",
+        "districtCode": "MI05",
+        "name": "Tim Walberg",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/W000798",
+        "note": ""
+      },
+      {
+        "district": "6th",
+        "districtCode": "MI06",
+        "name": "Debbie Dingell",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/D000624",
+        "note": ""
+      },
+      {
+        "district": "7th",
+        "districtCode": "MI07",
+        "name": "Tom Barrett",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/B001321",
+        "note": ""
+      },
+      {
+        "district": "8th",
+        "districtCode": "MI08",
+        "name": "Kristen McDonald Rivet",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/M001237",
+        "note": ""
+      },
+      {
+        "district": "9th",
+        "districtCode": "MI09",
+        "name": "Lisa C. McClain",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/M001136",
+        "note": ""
+      },
+      {
+        "district": "10th",
+        "districtCode": "MI10",
+        "name": "John James",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/J000307",
+        "note": ""
+      },
+      {
+        "district": "11th",
+        "districtCode": "MI11",
+        "name": "Haley M. Stevens",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/S001215",
+        "note": ""
+      },
+      {
+        "district": "12th",
+        "districtCode": "MI12",
+        "name": "Rashida Tlaib",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/T000481",
+        "note": ""
+      },
+      {
+        "district": "13th",
+        "districtCode": "MI13",
+        "name": "Shri Thanedar",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/T000488",
+        "note": ""
+      }
+    ],
+    "MN": [
+      {
+        "district": "1st",
+        "districtCode": "MN01",
+        "name": "Brad Finstad",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/F000475",
+        "note": ""
+      },
+      {
+        "district": "2nd",
+        "districtCode": "MN02",
+        "name": "Angie Craig",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/C001119",
+        "note": ""
+      },
+      {
+        "district": "3rd",
+        "districtCode": "MN03",
+        "name": "Kelly Morrison",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/M001234",
+        "note": ""
+      },
+      {
+        "district": "4th",
+        "districtCode": "MN04",
+        "name": "Betty McCollum",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/M001143",
+        "note": ""
+      },
+      {
+        "district": "5th",
+        "districtCode": "MN05",
+        "name": "Ilhan Omar",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/O000173",
+        "note": ""
+      },
+      {
+        "district": "6th",
+        "districtCode": "MN06",
+        "name": "Tom Emmer",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/E000294",
+        "note": ""
+      },
+      {
+        "district": "7th",
+        "districtCode": "MN07",
+        "name": "Michelle Fischbach",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/F000470",
+        "note": ""
+      },
+      {
+        "district": "8th",
+        "districtCode": "MN08",
+        "name": "Pete Stauber",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/S001212",
+        "note": ""
+      }
+    ],
+    "MS": [
+      {
+        "district": "1st",
+        "districtCode": "MS01",
+        "name": "Trent Kelly",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/K000388",
+        "note": ""
+      },
+      {
+        "district": "2nd",
+        "districtCode": "MS02",
+        "name": "Bennie G. Thompson",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/T000193",
+        "note": ""
+      },
+      {
+        "district": "3rd",
+        "districtCode": "MS03",
+        "name": "Michael Guest",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/G000591",
+        "note": ""
+      },
+      {
+        "district": "4th",
+        "districtCode": "MS04",
+        "name": "Mike Ezell",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/E000235",
+        "note": ""
+      }
+    ],
+    "MO": [
+      {
+        "district": "1st",
+        "districtCode": "MO01",
+        "name": "Wesley Bell",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/B001324",
+        "note": ""
+      },
+      {
+        "district": "2nd",
+        "districtCode": "MO02",
+        "name": "Ann Wagner",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/W000812",
+        "note": ""
+      },
+      {
+        "district": "3rd",
+        "districtCode": "MO03",
+        "name": "Robert F. Onder, Jr.",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/O000177",
+        "note": ""
+      },
+      {
+        "district": "4th",
+        "districtCode": "MO04",
+        "name": "Mark Alford",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/A000379",
+        "note": ""
+      },
+      {
+        "district": "5th",
+        "districtCode": "MO05",
+        "name": "Emanuel Cleaver",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/C001061",
+        "note": ""
+      },
+      {
+        "district": "6th",
+        "districtCode": "MO06",
+        "name": "Sam Graves",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/G000546",
+        "note": ""
+      },
+      {
+        "district": "7th",
+        "districtCode": "MO07",
+        "name": "Eric Burlison",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/B001316",
+        "note": ""
+      },
+      {
+        "district": "8th",
+        "districtCode": "MO08",
+        "name": "Jason Smith",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/S001195",
+        "note": ""
+      }
+    ],
+    "MT": [
+      {
+        "district": "1st",
+        "districtCode": "MT01",
+        "name": "Ryan K. Zinke",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/Z000018",
+        "note": ""
+      },
+      {
+        "district": "2nd",
+        "districtCode": "MT02",
+        "name": "Troy Downing",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/D000634",
+        "note": ""
+      }
+    ],
+    "NE": [
+      {
+        "district": "1st",
+        "districtCode": "NE01",
+        "name": "Mike Flood",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/F000474",
+        "note": ""
+      },
+      {
+        "district": "2nd",
+        "districtCode": "NE02",
+        "name": "Don Bacon",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/B001298",
+        "note": ""
+      },
+      {
+        "district": "3rd",
+        "districtCode": "NE03",
+        "name": "Adrian Smith",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/S001172",
+        "note": ""
+      }
+    ],
+    "NV": [
+      {
+        "district": "1st",
+        "districtCode": "NV01",
+        "name": "Dina Titus",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/T000468",
+        "note": ""
+      },
+      {
+        "district": "2nd",
+        "districtCode": "NV02",
+        "name": "Mark E. Amodei",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/A000369",
+        "note": ""
+      },
+      {
+        "district": "3rd",
+        "districtCode": "NV03",
+        "name": "Susie Lee",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/L000590",
+        "note": ""
+      },
+      {
+        "district": "4th",
+        "districtCode": "NV04",
+        "name": "Steven Horsford",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/H001066",
+        "note": ""
+      }
+    ],
+    "NH": [
+      {
+        "district": "1st",
+        "districtCode": "NH01",
+        "name": "Chris Pappas",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/P000614",
+        "note": ""
+      },
+      {
+        "district": "2nd",
+        "districtCode": "NH02",
+        "name": "Maggie Goodlander",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/G000604",
+        "note": ""
+      }
+    ],
+    "NJ": [
+      {
+        "district": "1st",
+        "districtCode": "NJ01",
+        "name": "Donald Norcross",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/N000188",
+        "note": ""
+      },
+      {
+        "district": "2nd",
+        "districtCode": "NJ02",
+        "name": "Jefferson Van Drew",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/V000133",
+        "note": ""
+      },
+      {
+        "district": "3rd",
+        "districtCode": "NJ03",
+        "name": "Herbert C. Conaway, Jr.",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/C001136",
+        "note": ""
+      },
+      {
+        "district": "4th",
+        "districtCode": "NJ04",
+        "name": "Christopher H. Smith",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/S000522",
+        "note": ""
+      },
+      {
+        "district": "5th",
+        "districtCode": "NJ05",
+        "name": "Josh Gottheimer",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/G000583",
+        "note": ""
+      },
+      {
+        "district": "6th",
+        "districtCode": "NJ06",
+        "name": "Frank Pallone, Jr.",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/P000034",
+        "note": ""
+      },
+      {
+        "district": "7th",
+        "districtCode": "NJ07",
+        "name": "Thomas H. Kean, Jr.",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/K000398",
+        "note": ""
+      },
+      {
+        "district": "8th",
+        "districtCode": "NJ08",
+        "name": "Robert Menendez",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/M001226",
+        "note": ""
+      },
+      {
+        "district": "9th",
+        "districtCode": "NJ09",
+        "name": "Nellie Pou",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/P000621",
+        "note": ""
+      },
+      {
+        "district": "10th",
+        "districtCode": "NJ10",
+        "name": "LaMonica McIver",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/M001229",
+        "note": ""
+      },
+      {
+        "district": "11th",
+        "districtCode": "NJ11",
+        "name": "Analilia Mejia",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/M001246",
+        "note": ""
+      },
+      {
+        "district": "12th",
+        "districtCode": "NJ12",
+        "name": "Bonnie Watson Coleman",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/W000822",
+        "note": ""
+      }
+    ],
+    "NM": [
+      {
+        "district": "1st",
+        "districtCode": "NM01",
+        "name": "Melanie A. Stansbury",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/S001218",
+        "note": ""
+      },
+      {
+        "district": "2nd",
+        "districtCode": "NM02",
+        "name": "Gabe Vasquez",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/V000136",
+        "note": ""
+      },
+      {
+        "district": "3rd",
+        "districtCode": "NM03",
+        "name": "Teresa Leger Fernandez",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/L000273",
+        "note": ""
+      }
+    ],
+    "NY": [
+      {
+        "district": "1st",
+        "districtCode": "NY01",
+        "name": "Nick LaLota",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/L000598",
+        "note": ""
+      },
+      {
+        "district": "2nd",
+        "districtCode": "NY02",
+        "name": "Andrew R. Garbarino",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/G000597",
+        "note": ""
+      },
+      {
+        "district": "3rd",
+        "districtCode": "NY03",
+        "name": "Thomas R. Suozzi",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/S001201",
+        "note": ""
+      },
+      {
+        "district": "4th",
+        "districtCode": "NY04",
+        "name": "Laura Gillen",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/G000602",
+        "note": ""
+      },
+      {
+        "district": "5th",
+        "districtCode": "NY05",
+        "name": "Gregory W. Meeks",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/M001137",
+        "note": ""
+      },
+      {
+        "district": "6th",
+        "districtCode": "NY06",
+        "name": "Grace Meng",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/M001188",
+        "note": ""
+      },
+      {
+        "district": "7th",
+        "districtCode": "NY07",
+        "name": "Nydia M. Velázquez",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/V000081",
+        "note": ""
+      },
+      {
+        "district": "8th",
+        "districtCode": "NY08",
+        "name": "Hakeem S. Jeffries",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/J000294",
+        "note": ""
+      },
+      {
+        "district": "9th",
+        "districtCode": "NY09",
+        "name": "Yvette D. Clarke",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/C001067",
+        "note": ""
+      },
+      {
+        "district": "10th",
+        "districtCode": "NY10",
+        "name": "Daniel S. Goldman",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/G000599",
+        "note": ""
+      },
+      {
+        "district": "11th",
+        "districtCode": "NY11",
+        "name": "Nicole Malliotakis",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/M000317",
+        "note": ""
+      },
+      {
+        "district": "12th",
+        "districtCode": "NY12",
+        "name": "Jerrold Nadler",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/N000002",
+        "note": ""
+      },
+      {
+        "district": "13th",
+        "districtCode": "NY13",
+        "name": "Adriano Espaillat",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/E000297",
+        "note": ""
+      },
+      {
+        "district": "14th",
+        "districtCode": "NY14",
+        "name": "Alexandria Ocasio-Cortez",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/O000172",
+        "note": ""
+      },
+      {
+        "district": "15th",
+        "districtCode": "NY15",
+        "name": "Ritchie Torres",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/T000486",
+        "note": ""
+      },
+      {
+        "district": "16th",
+        "districtCode": "NY16",
+        "name": "George Latimer",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/L000606",
+        "note": ""
+      },
+      {
+        "district": "17th",
+        "districtCode": "NY17",
+        "name": "Michael Lawler",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/L000599",
+        "note": ""
+      },
+      {
+        "district": "18th",
+        "districtCode": "NY18",
+        "name": "Patrick Ryan",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/R000579",
+        "note": ""
+      },
+      {
+        "district": "19th",
+        "districtCode": "NY19",
+        "name": "Josh Riley",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/R000622",
+        "note": ""
+      },
+      {
+        "district": "20th",
+        "districtCode": "NY20",
+        "name": "Paul Tonko",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/T000469",
+        "note": ""
+      },
+      {
+        "district": "21st",
+        "districtCode": "NY21",
+        "name": "Elise M. Stefanik",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/S001196",
+        "note": ""
+      },
+      {
+        "district": "22nd",
+        "districtCode": "NY22",
+        "name": "John W. Mannion",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/M001231",
+        "note": ""
+      },
+      {
+        "district": "23rd",
+        "districtCode": "NY23",
+        "name": "Nicholas A. Langworthy",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/L000600",
+        "note": ""
+      },
+      {
+        "district": "24th",
+        "districtCode": "NY24",
+        "name": "Claudia Tenney",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/T000478",
+        "note": ""
+      },
+      {
+        "district": "25th",
+        "districtCode": "NY25",
+        "name": "Joseph D. Morelle",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/M001206",
+        "note": ""
+      },
+      {
+        "district": "26th",
+        "districtCode": "NY26",
+        "name": "Timothy M. Kennedy",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/K000402",
+        "note": ""
+      }
+    ],
+    "NC": [
+      {
+        "district": "1st",
+        "districtCode": "NC01",
+        "name": "Donald G. Davis",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/D000230",
+        "note": ""
+      },
+      {
+        "district": "2nd",
+        "districtCode": "NC02",
+        "name": "Deborah K. Ross",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/R000305",
+        "note": ""
+      },
+      {
+        "district": "3rd",
+        "districtCode": "NC03",
+        "name": "Gregory F. Murphy",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/M001210",
+        "note": ""
+      },
+      {
+        "district": "4th",
+        "districtCode": "NC04",
+        "name": "Valerie P. Foushee",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/F000477",
+        "note": ""
+      },
+      {
+        "district": "5th",
+        "districtCode": "NC05",
+        "name": "Virginia Foxx",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/F000450",
+        "note": ""
+      },
+      {
+        "district": "6th",
+        "districtCode": "NC06",
+        "name": "Addison P. McDowell",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/M001240",
+        "note": ""
+      },
+      {
+        "district": "7th",
+        "districtCode": "NC07",
+        "name": "David Rouzer",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/R000603",
+        "note": ""
+      },
+      {
+        "district": "8th",
+        "districtCode": "NC08",
+        "name": "Mark Harris",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/H001102",
+        "note": ""
+      },
+      {
+        "district": "9th",
+        "districtCode": "NC09",
+        "name": "Richard Hudson",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/H001067",
+        "note": ""
+      },
+      {
+        "district": "10th",
+        "districtCode": "NC10",
+        "name": "Pat Harrigan",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/H001101",
+        "note": ""
+      },
+      {
+        "district": "11th",
+        "districtCode": "NC11",
+        "name": "Chuck Edwards",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/E000246",
+        "note": ""
+      },
+      {
+        "district": "12th",
+        "districtCode": "NC12",
+        "name": "Alma S. Adams",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/A000370",
+        "note": ""
+      },
+      {
+        "district": "13th",
+        "districtCode": "NC13",
+        "name": "Brad Knott",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/K000405",
+        "note": ""
+      },
+      {
+        "district": "14th",
+        "districtCode": "NC14",
+        "name": "Tim Moore",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/M001236",
+        "note": ""
+      }
+    ],
+    "ND": [
+      {
+        "district": "At Large",
+        "districtCode": "ND00",
+        "name": "Julie Fedorchak",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/F000482",
+        "note": ""
+      }
+    ],
+    "OH": [
+      {
+        "district": "1st",
+        "districtCode": "OH01",
+        "name": "Greg Landsman",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/L000601",
+        "note": ""
+      },
+      {
+        "district": "2nd",
+        "districtCode": "OH02",
+        "name": "David J. Taylor",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/T000490",
+        "note": ""
+      },
+      {
+        "district": "3rd",
+        "districtCode": "OH03",
+        "name": "Joyce Beatty",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/B001281",
+        "note": ""
+      },
+      {
+        "district": "4th",
+        "districtCode": "OH04",
+        "name": "Jim Jordan",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/J000289",
+        "note": ""
+      },
+      {
+        "district": "5th",
+        "districtCode": "OH05",
+        "name": "Robert E. Latta",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/L000566",
+        "note": ""
+      },
+      {
+        "district": "6th",
+        "districtCode": "OH06",
+        "name": "Michael A. Rulli",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/R000619",
+        "note": ""
+      },
+      {
+        "district": "7th",
+        "districtCode": "OH07",
+        "name": "Max L. Miller",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/M001222",
+        "note": ""
+      },
+      {
+        "district": "8th",
+        "districtCode": "OH08",
+        "name": "Warren Davidson",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/D000626",
+        "note": ""
+      },
+      {
+        "district": "9th",
+        "districtCode": "OH09",
+        "name": "Marcy Kaptur",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/K000009",
+        "note": ""
+      },
+      {
+        "district": "10th",
+        "districtCode": "OH10",
+        "name": "Michael R. Turner",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/T000463",
+        "note": ""
+      },
+      {
+        "district": "11th",
+        "districtCode": "OH11",
+        "name": "Shontel M. Brown",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/B001313",
+        "note": ""
+      },
+      {
+        "district": "12th",
+        "districtCode": "OH12",
+        "name": "Troy Balderson",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/B001306",
+        "note": ""
+      },
+      {
+        "district": "13th",
+        "districtCode": "OH13",
+        "name": "Emilia Strong Sykes",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/S001223",
+        "note": ""
+      },
+      {
+        "district": "14th",
+        "districtCode": "OH14",
+        "name": "David P. Joyce",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/J000295",
+        "note": ""
+      },
+      {
+        "district": "15th",
+        "districtCode": "OH15",
+        "name": "Mike Carey",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/C001126",
+        "note": ""
+      }
+    ],
+    "OK": [
+      {
+        "district": "1st",
+        "districtCode": "OK01",
+        "name": "Kevin Hern",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/H001082",
+        "note": ""
+      },
+      {
+        "district": "2nd",
+        "districtCode": "OK02",
+        "name": "Josh Brecheen",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/B001317",
+        "note": ""
+      },
+      {
+        "district": "3rd",
+        "districtCode": "OK03",
+        "name": "Frank D. Lucas",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/L000491",
+        "note": ""
+      },
+      {
+        "district": "4th",
+        "districtCode": "OK04",
+        "name": "Tom Cole",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/C001053",
+        "note": ""
+      },
+      {
+        "district": "5th",
+        "districtCode": "OK05",
+        "name": "Stephanie I. Bice",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/B000740",
+        "note": ""
+      }
+    ],
+    "OR": [
+      {
+        "district": "1st",
+        "districtCode": "OR01",
+        "name": "Suzanne Bonamici",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/B001278",
+        "note": ""
+      },
+      {
+        "district": "2nd",
+        "districtCode": "OR02",
+        "name": "Cliff Bentz",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/B000668",
+        "note": ""
+      },
+      {
+        "district": "3rd",
+        "districtCode": "OR03",
+        "name": "Maxine Dexter",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/D000635",
+        "note": ""
+      },
+      {
+        "district": "4th",
+        "districtCode": "OR04",
+        "name": "Val T. Hoyle",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/H001094",
+        "note": ""
+      },
+      {
+        "district": "5th",
+        "districtCode": "OR05",
+        "name": "Janelle S. Bynum",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/B001326",
+        "note": ""
+      },
+      {
+        "district": "6th",
+        "districtCode": "OR06",
+        "name": "Andrea Salinas",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/S001226",
+        "note": ""
+      }
+    ],
+    "PA": [
+      {
+        "district": "1st",
+        "districtCode": "PA01",
+        "name": "Brian K. Fitzpatrick",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/F000466",
+        "note": ""
+      },
+      {
+        "district": "2nd",
+        "districtCode": "PA02",
+        "name": "Brendan F. Boyle",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/B001296",
+        "note": ""
+      },
+      {
+        "district": "3rd",
+        "districtCode": "PA03",
+        "name": "Dwight Evans",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/E000296",
+        "note": ""
+      },
+      {
+        "district": "4th",
+        "districtCode": "PA04",
+        "name": "Madeleine Dean",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/D000631",
+        "note": ""
+      },
+      {
+        "district": "5th",
+        "districtCode": "PA05",
+        "name": "Mary Gay Scanlon",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/S001205",
+        "note": ""
+      },
+      {
+        "district": "6th",
+        "districtCode": "PA06",
+        "name": "Chrissy Houlahan",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/H001085",
+        "note": ""
+      },
+      {
+        "district": "7th",
+        "districtCode": "PA07",
+        "name": "Ryan Mackenzie",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/M001230",
+        "note": ""
+      },
+      {
+        "district": "8th",
+        "districtCode": "PA08",
+        "name": "Robert P. Bresnahan, Jr.",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/B001327",
+        "note": ""
+      },
+      {
+        "district": "9th",
+        "districtCode": "PA09",
+        "name": "Daniel Meuser",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/M001204",
+        "note": ""
+      },
+      {
+        "district": "10th",
+        "districtCode": "PA10",
+        "name": "Scott Perry",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/P000605",
+        "note": ""
+      },
+      {
+        "district": "11th",
+        "districtCode": "PA11",
+        "name": "Lloyd Smucker",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/S001199",
+        "note": ""
+      },
+      {
+        "district": "12th",
+        "districtCode": "PA12",
+        "name": "Summer L. Lee",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/L000602",
+        "note": ""
+      },
+      {
+        "district": "13th",
+        "districtCode": "PA13",
+        "name": "John Joyce",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/J000302",
+        "note": ""
+      },
+      {
+        "district": "14th",
+        "districtCode": "PA14",
+        "name": "Guy Reschenthaler",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/R000610",
+        "note": ""
+      },
+      {
+        "district": "15th",
+        "districtCode": "PA15",
+        "name": "Glenn Thompson",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/T000467",
+        "note": ""
+      },
+      {
+        "district": "16th",
+        "districtCode": "PA16",
+        "name": "Mike Kelly",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/K000376",
+        "note": ""
+      },
+      {
+        "district": "17th",
+        "districtCode": "PA17",
+        "name": "Christopher R. Deluzio",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/D000530",
+        "note": ""
+      }
+    ],
+    "RI": [
+      {
+        "district": "1st",
+        "districtCode": "RI01",
+        "name": "Gabe Amo",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/A000380",
+        "note": ""
+      },
+      {
+        "district": "2nd",
+        "districtCode": "RI02",
+        "name": "Seth Magaziner",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/M001223",
+        "note": ""
+      }
+    ],
+    "SC": [
+      {
+        "district": "1st",
+        "districtCode": "SC01",
+        "name": "Nancy Mace",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/M000194",
+        "note": ""
+      },
+      {
+        "district": "2nd",
+        "districtCode": "SC02",
+        "name": "Joe Wilson",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/W000795",
+        "note": ""
+      },
+      {
+        "district": "3rd",
+        "districtCode": "SC03",
+        "name": "Sheri Biggs",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/B001325",
+        "note": ""
+      },
+      {
+        "district": "4th",
+        "districtCode": "SC04",
+        "name": "William R. Timmons IV",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/T000480",
+        "note": ""
+      },
+      {
+        "district": "5th",
+        "districtCode": "SC05",
+        "name": "Ralph Norman",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/N000190",
+        "note": ""
+      },
+      {
+        "district": "6th",
+        "districtCode": "SC06",
+        "name": "James E. Clyburn",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/C000537",
+        "note": ""
+      },
+      {
+        "district": "7th",
+        "districtCode": "SC07",
+        "name": "Russell Fry",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/F000478",
+        "note": ""
+      }
+    ],
+    "SD": [
+      {
+        "district": "At Large",
+        "districtCode": "SD00",
+        "name": "Dusty Johnson",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/J000301",
+        "note": ""
+      }
+    ],
+    "TN": [
+      {
+        "district": "1st",
+        "districtCode": "TN01",
+        "name": "Diana Harshbarger",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/H001086",
+        "note": ""
+      },
+      {
+        "district": "2nd",
+        "districtCode": "TN02",
+        "name": "Tim Burchett",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/B001309",
+        "note": ""
+      },
+      {
+        "district": "3rd",
+        "districtCode": "TN03",
+        "name": "Charles J. \"Chuck\" Fleischmann",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/F000459",
+        "note": ""
+      },
+      {
+        "district": "4th",
+        "districtCode": "TN04",
+        "name": "Scott DesJarlais",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/D000616",
+        "note": ""
+      },
+      {
+        "district": "5th",
+        "districtCode": "TN05",
+        "name": "Andrew Ogles",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/O000175",
+        "note": ""
+      },
+      {
+        "district": "6th",
+        "districtCode": "TN06",
+        "name": "John W. Rose",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/R000612",
+        "note": ""
+      },
+      {
+        "district": "7th",
+        "districtCode": "TN07",
+        "name": "Matt Van Epps",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/V000139",
+        "note": ""
+      },
+      {
+        "district": "8th",
+        "districtCode": "TN08",
+        "name": "David Kustoff",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/K000392",
+        "note": ""
+      },
+      {
+        "district": "9th",
+        "districtCode": "TN09",
+        "name": "Steve Cohen",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/C001068",
+        "note": ""
+      }
+    ],
+    "TX": [
+      {
+        "district": "1st",
+        "districtCode": "TX01",
+        "name": "Nathaniel Moran",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/M001224",
+        "note": ""
+      },
+      {
+        "district": "2nd",
+        "districtCode": "TX02",
+        "name": "Dan Crenshaw",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/C001120",
+        "note": ""
+      },
+      {
+        "district": "3rd",
+        "districtCode": "TX03",
+        "name": "Keith Self",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/S001224",
+        "note": ""
+      },
+      {
+        "district": "4th",
+        "districtCode": "TX04",
+        "name": "Pat Fallon",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/F000246",
+        "note": ""
+      },
+      {
+        "district": "5th",
+        "districtCode": "TX05",
+        "name": "Lance Gooden",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/G000589",
+        "note": ""
+      },
+      {
+        "district": "6th",
+        "districtCode": "TX06",
+        "name": "Jake Ellzey",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/E000071",
+        "note": ""
+      },
+      {
+        "district": "7th",
+        "districtCode": "TX07",
+        "name": "Lizzie Fletcher",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/F000468",
+        "note": ""
+      },
+      {
+        "district": "8th",
+        "districtCode": "TX08",
+        "name": "Morgan Luttrell",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/L000603",
+        "note": ""
+      },
+      {
+        "district": "9th",
+        "districtCode": "TX09",
+        "name": "Al Green",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/G000553",
+        "note": ""
+      },
+      {
+        "district": "10th",
+        "districtCode": "TX10",
+        "name": "Michael T. McCaul",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/M001157",
+        "note": ""
+      },
+      {
+        "district": "11th",
+        "districtCode": "TX11",
+        "name": "August Pfluger",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/P000048",
+        "note": ""
+      },
+      {
+        "district": "12th",
+        "districtCode": "TX12",
+        "name": "Craig A. Goldman",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/G000601",
+        "note": ""
+      },
+      {
+        "district": "13th",
+        "districtCode": "TX13",
+        "name": "Ronny Jackson",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/J000304",
+        "note": ""
+      },
+      {
+        "district": "14th",
+        "districtCode": "TX14",
+        "name": "Randy K. Weber, Sr.",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/W000814",
+        "note": ""
+      },
+      {
+        "district": "15th",
+        "districtCode": "TX15",
+        "name": "Monica De La Cruz",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/D000594",
+        "note": ""
+      },
+      {
+        "district": "16th",
+        "districtCode": "TX16",
+        "name": "Veronica Escobar",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/E000299",
+        "note": ""
+      },
+      {
+        "district": "17th",
+        "districtCode": "TX17",
+        "name": "Pete Sessions",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/S000250",
+        "note": ""
+      },
+      {
+        "district": "18th",
+        "districtCode": "TX18",
+        "name": "Christian D. Menefee",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/M001245",
+        "note": ""
+      },
+      {
+        "district": "19th",
+        "districtCode": "TX19",
+        "name": "Jodey C. Arrington",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/A000375",
+        "note": ""
+      },
+      {
+        "district": "20th",
+        "districtCode": "TX20",
+        "name": "Joaquin Castro",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/C001091",
+        "note": ""
+      },
+      {
+        "district": "21st",
+        "districtCode": "TX21",
+        "name": "Chip Roy",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/R000614",
+        "note": ""
+      },
+      {
+        "district": "22nd",
+        "districtCode": "TX22",
+        "name": "Troy E. Nehls",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/N000026",
+        "note": ""
+      },
+      {
+        "district": "23rd",
+        "districtCode": "TX23",
+        "name": "Vacant seat",
+        "vacant": true,
+        "url": "https://clerk.house.gov/Members/ViewMemberList",
+        "note": "Vacancy due to the resignation of Tony Gonzales, April 14, 2026."
+      },
+      {
+        "district": "24th",
+        "districtCode": "TX24",
+        "name": "Beth Van Duyne",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/V000134",
+        "note": ""
+      },
+      {
+        "district": "25th",
+        "districtCode": "TX25",
+        "name": "Roger Williams",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/W000816",
+        "note": ""
+      },
+      {
+        "district": "26th",
+        "districtCode": "TX26",
+        "name": "Brandon Gill",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/G000603",
+        "note": ""
+      },
+      {
+        "district": "27th",
+        "districtCode": "TX27",
+        "name": "Michael Cloud",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/C001115",
+        "note": ""
+      },
+      {
+        "district": "28th",
+        "districtCode": "TX28",
+        "name": "Henry Cuellar",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/C001063",
+        "note": ""
+      },
+      {
+        "district": "29th",
+        "districtCode": "TX29",
+        "name": "Sylvia R. Garcia",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/G000587",
+        "note": ""
+      },
+      {
+        "district": "30th",
+        "districtCode": "TX30",
+        "name": "Jasmine Crockett",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/C001130",
+        "note": ""
+      },
+      {
+        "district": "31st",
+        "districtCode": "TX31",
+        "name": "John R. Carter",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/C001051",
+        "note": ""
+      },
+      {
+        "district": "32nd",
+        "districtCode": "TX32",
+        "name": "Julie Johnson",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/J000310",
+        "note": ""
+      },
+      {
+        "district": "33rd",
+        "districtCode": "TX33",
+        "name": "Marc A. Veasey",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/V000131",
+        "note": ""
+      },
+      {
+        "district": "34th",
+        "districtCode": "TX34",
+        "name": "Vicente Gonzalez",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/G000581",
+        "note": ""
+      },
+      {
+        "district": "35th",
+        "districtCode": "TX35",
+        "name": "Greg Casar",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/C001131",
+        "note": ""
+      },
+      {
+        "district": "36th",
+        "districtCode": "TX36",
+        "name": "Brian Babin",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/B001291",
+        "note": ""
+      },
+      {
+        "district": "37th",
+        "districtCode": "TX37",
+        "name": "Lloyd Doggett",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/D000399",
+        "note": ""
+      },
+      {
+        "district": "38th",
+        "districtCode": "TX38",
+        "name": "Wesley Hunt",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/H001095",
+        "note": ""
+      }
+    ],
+    "UT": [
+      {
+        "district": "1st",
+        "districtCode": "UT01",
+        "name": "Blake D. Moore",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/M001213",
+        "note": ""
+      },
+      {
+        "district": "2nd",
+        "districtCode": "UT02",
+        "name": "Celeste Maloy",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/M001228",
+        "note": ""
+      },
+      {
+        "district": "3rd",
+        "districtCode": "UT03",
+        "name": "Mike Kennedy",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/K000403",
+        "note": ""
+      },
+      {
+        "district": "4th",
+        "districtCode": "UT04",
+        "name": "Burgess Owens",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/O000086",
+        "note": ""
+      }
+    ],
+    "VT": [
+      {
+        "district": "At Large",
+        "districtCode": "VT00",
+        "name": "Becca Balint",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/B001318",
+        "note": ""
+      }
+    ],
+    "VA": [
+      {
+        "district": "1st",
+        "districtCode": "VA01",
+        "name": "Robert J. Wittman",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/W000804",
+        "note": ""
+      },
+      {
+        "district": "2nd",
+        "districtCode": "VA02",
+        "name": "Jennifer A. Kiggans",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/K000399",
+        "note": ""
+      },
+      {
+        "district": "3rd",
+        "districtCode": "VA03",
+        "name": "Robert C. \"Bobby\" Scott",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/S000185",
+        "note": ""
+      },
+      {
+        "district": "4th",
+        "districtCode": "VA04",
+        "name": "Jennifer L. McClellan",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/M001227",
+        "note": ""
+      },
+      {
+        "district": "5th",
+        "districtCode": "VA05",
+        "name": "John J. McGuire III",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/M001239",
+        "note": ""
+      },
+      {
+        "district": "6th",
+        "districtCode": "VA06",
+        "name": "Ben Cline",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/C001118",
+        "note": ""
+      },
+      {
+        "district": "7th",
+        "districtCode": "VA07",
+        "name": "Eugene Simon Vindman",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/V000138",
+        "note": ""
+      },
+      {
+        "district": "8th",
+        "districtCode": "VA08",
+        "name": "Donald S. Beyer, Jr.",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/B001292",
+        "note": ""
+      },
+      {
+        "district": "9th",
+        "districtCode": "VA09",
+        "name": "H. Morgan Griffith",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/G000568",
+        "note": ""
+      },
+      {
+        "district": "10th",
+        "districtCode": "VA10",
+        "name": "Suhas Subramanyam",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/S001230",
+        "note": ""
+      },
+      {
+        "district": "11th",
+        "districtCode": "VA11",
+        "name": "James R. Walkinshaw",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/W000831",
+        "note": ""
+      }
+    ],
+    "WA": [
+      {
+        "district": "1st",
+        "districtCode": "WA01",
+        "name": "Suzan K. DelBene",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/D000617",
+        "note": ""
+      },
+      {
+        "district": "2nd",
+        "districtCode": "WA02",
+        "name": "Rick Larsen",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/L000560",
+        "note": ""
+      },
+      {
+        "district": "3rd",
+        "districtCode": "WA03",
+        "name": "Marie Gluesenkamp Perez",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/G000600",
+        "note": ""
+      },
+      {
+        "district": "4th",
+        "districtCode": "WA04",
+        "name": "Dan Newhouse",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/N000189",
+        "note": ""
+      },
+      {
+        "district": "5th",
+        "districtCode": "WA05",
+        "name": "Michael Baumgartner",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/B001322",
+        "note": ""
+      },
+      {
+        "district": "6th",
+        "districtCode": "WA06",
+        "name": "Emily Randall",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/R000621",
+        "note": ""
+      },
+      {
+        "district": "7th",
+        "districtCode": "WA07",
+        "name": "Pramila Jayapal",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/J000298",
+        "note": ""
+      },
+      {
+        "district": "8th",
+        "districtCode": "WA08",
+        "name": "Kim Schrier",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/S001216",
+        "note": ""
+      },
+      {
+        "district": "9th",
+        "districtCode": "WA09",
+        "name": "Adam Smith",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/S000510",
+        "note": ""
+      },
+      {
+        "district": "10th",
+        "districtCode": "WA10",
+        "name": "Marilyn Strickland",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/S001159",
+        "note": ""
+      }
+    ],
+    "WV": [
+      {
+        "district": "1st",
+        "districtCode": "WV01",
+        "name": "Carol D. Miller",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/M001205",
+        "note": ""
+      },
+      {
+        "district": "2nd",
+        "districtCode": "WV02",
+        "name": "Riley M. Moore",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/M001235",
+        "note": ""
+      }
+    ],
+    "WI": [
+      {
+        "district": "1st",
+        "districtCode": "WI01",
+        "name": "Bryan Steil",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/S001213",
+        "note": ""
+      },
+      {
+        "district": "2nd",
+        "districtCode": "WI02",
+        "name": "Mark Pocan",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/P000607",
+        "note": ""
+      },
+      {
+        "district": "3rd",
+        "districtCode": "WI03",
+        "name": "Derrick Van Orden",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/V000135",
+        "note": ""
+      },
+      {
+        "district": "4th",
+        "districtCode": "WI04",
+        "name": "Gwen Moore",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/M001160",
+        "note": ""
+      },
+      {
+        "district": "5th",
+        "districtCode": "WI05",
+        "name": "Scott Fitzgerald",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/F000471",
+        "note": ""
+      },
+      {
+        "district": "6th",
+        "districtCode": "WI06",
+        "name": "Glenn Grothman",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/G000576",
+        "note": ""
+      },
+      {
+        "district": "7th",
+        "districtCode": "WI07",
+        "name": "Thomas P. Tiffany",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/T000165",
+        "note": ""
+      },
+      {
+        "district": "8th",
+        "districtCode": "WI08",
+        "name": "Tony Wied",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/W000829",
+        "note": ""
+      }
+    ],
+    "WY": [
+      {
+        "district": "At Large",
+        "districtCode": "WY00",
+        "name": "Harriet M. Hageman",
+        "vacant": false,
+        "url": "https://clerk.house.gov/Members/H001096",
+        "note": ""
+      }
+    ]
+  },
+  "stateChecks": {
+    "FL": {
+      "checked": "2026-11-09",
+      "published": "November 3, 2026",
+      "congress": "119",
+      "electionDate": null
+    },
+    "VA": {
+      "checked": "2026-11-09",
+      "published": "November 3, 2026",
+      "congress": "119",
+      "electionDate": null
+    },
+    "OR": {
+      "checked": "2026-11-09",
+      "published": "November 3, 2026",
+      "congress": "119",
+      "electionDate": null
+    },
+    "MA": {
+      "checked": "2026-11-09",
+      "published": "November 3, 2026",
+      "congress": "119",
+      "electionDate": null
+    },
+    "GA": {
+      "checked": "2026-11-09",
+      "published": "November 3, 2026",
+      "congress": "119",
+      "electionDate": null
+    },
+    "MI": {
+      "checked": "2026-11-09",
+      "published": "November 3, 2026",
+      "congress": "119",
+      "electionDate": null
+    },
+    "RI": {
+      "checked": "2026-11-09",
+      "published": "November 3, 2026",
+      "congress": "119",
+      "electionDate": null
+    },
+    "KY": {
+      "checked": "2026-11-09",
+      "published": "November 3, 2026",
+      "congress": "119",
+      "electionDate": null
+    },
+    "AK": {
+      "checked": "2026-11-09",
+      "published": "November 3, 2026",
+      "congress": "119",
+      "electionDate": null
+    },
+    "VT": {
+      "checked": "2026-11-09",
+      "published": "November 3, 2026",
+      "congress": "119",
+      "electionDate": null
+    },
+    "ID": {
+      "checked": "2026-11-09",
+      "published": "November 3, 2026",
+      "congress": "119",
+      "electionDate": null
+    },
+    "ND": {
+      "checked": "2026-11-09",
+      "published": "November 3, 2026",
+      "congress": "119",
+      "electionDate": null
+    },
+    "TX": {
+      "checked": "2026-11-09",
+      "published": "November 3, 2026",
+      "congress": "119",
+      "electionDate": null
+    },
+    "LA": {
+      "checked": "2026-11-09",
+      "published": "November 3, 2026",
+      "congress": "119",
+      "electionDate": null
+    },
+    "SD": {
+      "checked": "2026-11-09",
+      "published": "November 3, 2026",
+      "congress": "119",
+      "electionDate": null
+    },
+    "WV": {
+      "checked": "2026-11-09",
+      "published": "November 3, 2026",
+      "congress": "119",
+      "electionDate": null
+    },
+    "AZ": {
+      "checked": "2026-11-09",
+      "published": "November 3, 2026",
+      "congress": "119",
+      "electionDate": null
+    },
+    "KS": {
+      "checked": "2026-11-09",
+      "published": "November 3, 2026",
+      "congress": "119",
+      "electionDate": null
+    },
+    "MO": {
+      "checked": "2026-11-09",
+      "published": "November 3, 2026",
+      "congress": "119",
+      "electionDate": null
+    },
+    "AR": {
+      "checked": "2026-11-09",
+      "published": "November 3, 2026",
+      "congress": "119",
+      "electionDate": null
+    },
+    "NM": {
+      "checked": "2026-11-09",
+      "published": "November 3, 2026",
+      "congress": "119",
+      "electionDate": null
+    },
+    "PA": {
+      "checked": "2026-11-09",
+      "published": "November 3, 2026",
+      "congress": "119",
+      "electionDate": null
+    },
+    "IL": {
+      "checked": "2026-11-09",
+      "published": "November 3, 2026",
+      "congress": "119",
+      "electionDate": null
+    },
+    "IN": {
+      "checked": "2026-11-09",
+      "published": "November 3, 2026",
+      "congress": "119",
+      "electionDate": null
+    },
+    "NE": {
+      "checked": "2026-11-09",
+      "published": "November 3, 2026",
+      "congress": "119",
+      "electionDate": null
+    },
+    "HI": {
+      "checked": "2026-11-09",
+      "published": "November 3, 2026",
+      "congress": "119",
+      "electionDate": null
+    },
+    "NC": {
+      "checked": "2026-11-09",
+      "published": "November 3, 2026",
+      "congress": "119",
+      "electionDate": null
+    },
+    "UT": {
+      "checked": "2026-11-09",
+      "published": "November 3, 2026",
+      "congress": "119",
+      "electionDate": null
+    },
+    "IA": {
+      "checked": "2026-11-09",
+      "published": "November 3, 2026",
+      "congress": "119",
+      "electionDate": null
+    },
+    "DE": {
+      "checked": "2026-11-09",
+      "published": "November 3, 2026",
+      "congress": "119",
+      "electionDate": null
+    },
+    "NJ": {
+      "checked": "2026-11-09",
+      "published": "November 3, 2026",
+      "congress": "119",
+      "electionDate": null
+    },
+    "SC": {
+      "checked": "2026-11-09",
+      "published": "November 3, 2026",
+      "congress": "119",
+      "electionDate": null
+    },
+    "WA": {
+      "checked": "2026-11-09",
+      "published": "November 3, 2026",
+      "congress": "119",
+      "electionDate": null
+    },
+    "AL": {
+      "checked": "2026-11-09",
+      "published": "November 3, 2026",
+      "congress": "119",
+      "electionDate": null
+    },
+    "MT": {
+      "checked": "2026-11-09",
+      "published": "November 3, 2026",
+      "congress": "119",
+      "electionDate": null
+    },
+    "NY": {
+      "checked": "2026-11-09",
+      "published": "November 3, 2026",
+      "congress": "119",
+      "electionDate": null
+    },
+    "OH": {
+      "checked": "2026-11-09",
+      "published": "November 3, 2026",
+      "congress": "119",
+      "electionDate": null
+    },
+    "CO": {
+      "checked": "2026-11-09",
+      "published": "November 3, 2026",
+      "congress": "119",
+      "electionDate": null
+    },
+    "OK": {
+      "checked": "2026-11-09",
+      "published": "November 3, 2026",
+      "congress": "119",
+      "electionDate": null
+    },
+    "MS": {
+      "checked": "2026-11-09",
+      "published": "November 3, 2026",
+      "congress": "119",
+      "electionDate": null
+    },
+    "WI": {
+      "checked": "2026-11-09",
+      "published": "November 3, 2026",
+      "congress": "119",
+      "electionDate": null
+    },
+    "CA": {
+      "checked": "2026-11-09",
+      "published": "November 3, 2026",
+      "congress": "119",
+      "electionDate": null
+    },
+    "WY": {
+      "checked": "2026-11-09",
+      "published": "November 3, 2026",
+      "congress": "119",
+      "electionDate": null
+    },
+    "MN": {
+      "checked": "2026-11-09",
+      "published": "November 3, 2026",
+      "congress": "119",
+      "electionDate": null
+    },
+    "NV": {
+      "checked": "2026-11-09",
+      "published": "November 3, 2026",
+      "congress": "119",
+      "electionDate": null
+    },
+    "NH": {
+      "checked": "2026-11-09",
+      "published": "November 3, 2026",
+      "congress": "119",
+      "electionDate": null
+    },
+    "TN": {
+      "checked": "2026-11-09",
+      "published": "November 3, 2026",
+      "congress": "119",
+      "electionDate": null
+    },
+    "MD": {
+      "checked": "2026-11-09",
+      "published": "November 3, 2026",
+      "congress": "119",
+      "electionDate": null
+    },
+    "ME": {
+      "checked": "2026-11-09",
+      "published": "November 3, 2026",
+      "congress": "119",
+      "electionDate": null
+    },
+    "CT": {
+      "checked": "2026-11-09",
+      "published": "November 3, 2026",
+      "congress": "119",
+      "electionDate": null
+    }
+  }
+}

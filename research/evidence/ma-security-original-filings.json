@@ -1,0 +1,67 @@
+{
+  "reviewed": "2026-11-16",
+  "record": "ma-security",
+  "finding": "Original filing date, regulatory effective date and compliance deadline are distinct. Archival original filing forms and attached texts reviewed.",
+  "filings": [
+    {
+      "name": "Massachusetts  Register (2008-10-03; no. 1114)",
+      "url": "https://archives.lib.state.ma.us/server/api/core/bitstreams/87b61718-e872-4825-ada1-d49504ec5428/content",
+      "handle": "2452/69810",
+      "pdfPages": [
+        173,
+        174,
+        183,
+        184,
+        185,
+        186
+      ],
+      "filed": "2008-09-19",
+      "effective": "2008-10-03"
+    },
+    {
+      "name": "Massachusetts  Register (2008-11-28; no. 1118)",
+      "url": "https://archives.lib.state.ma.us/server/api/core/bitstreams/b10843d2-b61c-4c9e-91bd-eb4d4cfc1367/content",
+      "handle": "2452/69814",
+      "pdfPages": [
+        39,
+        40,
+        42,
+        43,
+        44,
+        45
+      ],
+      "filed": "2008-11-14",
+      "effective": "2008-11-14"
+    },
+    {
+      "name": "Massachusetts  Register (2009-03-06; no. 1125)",
+      "url": "https://archives.lib.state.ma.us/server/api/core/bitstreams/c359e074-6d9f-4e66-88dc-351a604b0f3b/content",
+      "handle": "2452/69821",
+      "pdfPages": [
+        147,
+        148,
+        149,
+        150,
+        151,
+        152
+      ],
+      "filed": "2009-02-12",
+      "effective": "2009-03-06"
+    },
+    {
+      "name": "Massachusetts  Register (2009-11-13; no. 1143)",
+      "url": "https://archives.lib.state.ma.us/server/api/core/bitstreams/1a8b6740-7b76-4e5c-a18e-1f93a540fc9f/content",
+      "handle": "2452/69838",
+      "pdfPages": [
+        145,
+        146,
+        147,
+        148,
+        149,
+        150
+      ],
+      "filed": "2009-10-30",
+      "effective": "2009-11-13"
+    }
+  ]
+}
