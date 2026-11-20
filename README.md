@@ -25,7 +25,7 @@ Privacy in Practice helps visitors understand privacy and cybersecurity laws acr
 
 ## ⚖️ View Site Here
 
-[privacyinpractice.vercel.com](https://privacyinpractice.vercel.com)
+[Privacy in Practice](https://privacyinpractice.vercel.com)
 
 ## 📱 Contact
 
