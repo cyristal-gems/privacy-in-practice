@@ -23,27 +23,6 @@ Privacy in Practice helps visitors understand privacy and cybersecurity laws acr
 - **Lucide React:** Provides recognizable icons for navigation, privacy topics, research tools, and map controls.
 - **U.S. Census Geography via us-atlas:** Supplies the state outlines stored in the project and displayed on the interactive map.
 
-## Local Setup
-
-Use Node.js 22.13 or newer, then run:
-
-```sh
-npm ci
-npm run dev
-```
-
-Open [localhost:5173](http://localhost:5173) to preview the site.
-
-## Build and Deployment
-
-Run `npm run typecheck`, `npm run lint`, and `npm run build` before publishing; the build also checks that only the approved research records are included.
-
-The project uses Vercel’s **Next.js** preset, `npm ci` to install dependencies, and `npm run build` to prepare the site, with the standard Next.js output directory managed by Vercel.
-
-These settings are recorded in `vercel.json`; clear any older Cloudflare or `dist` output overrides in the Vercel project settings before redeploying.
-
-Research is stored in local JSON files, so the current site does not require a database or Cloudflare credentials.
-
 ## ⚖️ View Site Here
 
 [privacyinpractice.vercel.com](https://privacyinpractice.vercel.com)
