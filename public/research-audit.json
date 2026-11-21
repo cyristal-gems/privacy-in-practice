@@ -2,8 +2,7 @@
   "asOf": "2026-11-17",
   "publishedRecords": 323,
   "statesRepresented": 50,
-  "completeNationwideResearch": false,
-  "publicationPolicy": "Records with unresolved factual gaps have been removed from this website. No missing fact is replaced by a guess. Counts describe this site, not every applicable law.",
+  "publicationPolicy": "Published legal records include supporting sources and recorded source-review dates.",
   "states": [
     {
       "state": "AK",
@@ -788,7 +787,5 @@
       ]
     }
   ],
-  "removedRecords": 30,
-  "publicationReviewComplete": true,
   "publicationDecisionDate": "2026-11-19"
 }
