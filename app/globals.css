@@ -112,3 +112,38 @@ header{height:80px;max-width:none;padding:0 max(30px,calc((100vw - 1320px)/2));b
 .skip-link{position:fixed;left:16px;top:8px;z-index:1000;padding:12px 18px;background:#edb1ce;color:#21151f;font-weight:700;transform:translateY(-150%)}.skip-link:focus{transform:none}a:focus-visible,button:focus-visible,summary:focus-visible,input:focus-visible,select:focus-visible,[tabindex]:focus-visible{outline:3px solid #f7bedc;outline-offset:4px}button,input,select,summary{touch-action:manipulation}.nav-dropdown a{font-size:.875rem!important;min-height:40px}.compact-sources>summary{min-height:36px}.official-roster,.state-context-sources a{font-size:.875rem!important;line-height:1.6}.page-content .filter{font-size:.875rem}.page-content .filter select{font-size:1rem;min-height:44px}.page-content .comparison-detail{font-size:1rem;line-height:1.65}
 @media(max-width:1000px){.law-search-filters{grid-template-columns:1fr 1fr}.law-search-filters label:first-child{grid-column:1/-1}}@media(max-width:600px){.law-search-filters{grid-template-columns:minmax(0,1fr)}.law-search-filters label:first-child{grid-column:auto}.law-preview{padding:20px 16px}.law-preview h3{font-size:23px}.page-content .compare-select{display:flex;flex-wrap:wrap}.compare-select select{max-width:100%;min-height:44px;font-size:1rem}.table-wrap{max-width:100%;overflow-x:auto}header nav button{min-height:44px}.contact-footer a{min-height:44px;min-width:44px;display:grid;place-items:center}}
 @media(prefers-reduced-motion:reduce){html{scroll-behavior:auto!important}*,*:before,*:after{animation-duration:.01ms!important;animation-iteration-count:1!important;transition-duration:.01ms!important;scroll-behavior:auto!important}}
+
+/* Reading-page prose shares a readable measure, type size, and paragraph rhythm. */
+.page-content p {
+  font-size: 1rem;
+  line-height: 1.75;
+  max-width: 75ch;
+}
+.page-content p + p {
+  margin-top: 1rem;
+}
+.page-content .method-step {
+  display: block;
+}
+.page-content .method-step > div {
+  min-width: 0;
+}
+.page-content .method-step p,
+.page-content .guide-grid p,
+.page-content .guide-note,
+.page-content .state-overview-location p,
+.page-content .coverage-audit p {
+  font-size: 1rem;
+  line-height: 1.75;
+  max-width: 75ch;
+}
+.page-content .method-step h2 {
+  margin-top: 0;
+}
+.page-content .profile-layout > div > p {
+  margin-bottom: 1.25rem;
+}
+.page-content .research-read-more > p,
+.page-content .background-method p {
+  margin-block: 1rem;
+}
